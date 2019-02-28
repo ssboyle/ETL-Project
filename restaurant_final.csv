@@ -1,1593 +1,1593 @@
-,Restaurant_Name,Review_Rating,Number_of_Reviews
-0,R & H cafe gallery,5.0,146.0
-1,Osteria Romana,5.0,112.0
-2,The Oystermen Seafood Bar & Kitchen,5.0,255.0
-3,Liman Restaurant,5.0,945.0
-4,Holy Smoke,5.0,433.0
-5,The Clink Restaurant,5.0,588.0
-6,Bar 61 Restaurant,5.0,1730.0
-7,Taste Of Nawab,5.0,520.0
-8,Pizza Union Aldgate,5.0,369.0
-9,Core by Clare Smyth,5.0,99.0
-10,taNgia,5.0,539.0
-11,Gastronhome,5.0,572.0
-12,Zeret Kitchen,5.0,474.0
-13,The Golden Chippy,5.0,1015.0
-14,The Five Fields,5.0,1129.0
-15,Peninsula Restaurant,5.0,228.0
-16,Kibele Restaurant & Bar,5.0,273.0
-17,The Calabash of Culture,5.0,196.0
-18,Trattoria Raffaele,5.0,314.0
-19,Lorne Restaurant,5.0,97.0
-20,Daphne Restaurant,5.0,137.0
-21,Shahi Pakwaan,5.0,74.0
-22,Lentil,5.0,131.0
-23,EaTurkish,5.0,66.0
-24,Pizzetta Pizza,5.0,135.0
-25,London Shell Co,5.0,73.0
-26,Zala grill,5.0,65.0
-27,Rock Star Sushi Bar,5.0,559.0
-28,The Lounge Cafe,5.0,73.0
-29,Saka Maka cafe,5.0,69.0
-30,Pizza Union Dalston,5.0,56.0
-31,Tomo Pizzeria & Restaurant,5.0,150.0
-32,Knife Restaurant,5.0,77.0
-33,L'Elysee Artisan Cafe and Patisserie,5.0,105.0
-34,Sunday Champagne Brunch at The Landmark London,5.0,200.0
-35,Satan's Whiskers,5.0,103.0
-36,Cafe Che-Men,5.0,95.0
-37,Oi Vita Pizzeria,5.0,58.0
-38,Adore Remo,5.0,50.0
-39,Magic Falafel,5.0,55.0
-40,Alexandrie Restaurant,5.0,141.0
-41,Restaurant Flat Three,5.0,121.0
-42,Fast Break,5.0,62.0
-43,KataKata,5.0,133.0
-44,Sorrento In,5.0,68.0
-45,Il Primo Ristorante,5.0,76.0
-46,Con Gusto,5.0,62.0
-47,140 Portobello,5.0,33.0
-48,Sushi Tetsu,5.0,127.0
-49,Cafe Van Gogh,5.0,56.0
-50,Olde Goa,5.0,189.0
-51,Pham house,5.0,55.0
-52,Rullo's Pizzeria,5.0,88.0
-53,Volare,5.0,56.0
-54,Wassouf Lounge,5.0,130.0
-55,Made in South Pizzeria,5.0,308.0
-56,Manuel's Restaurant and Bar,5.0,192.0
-57,Frog By Adam Handling,5.0,68.0
-58,Alcedo Bistro & Bar,5.0,66.0
-59,Franzina Trattoria,5.0,53.0
-60,Meraki Grill,5.0,43.0
-61,Viet Baguette Ltd,5.0,97.0
-62,PickyWops,5.0,45.0
-63,Casa Tua Camden,5.0,285.0
-64,Mazaya,5.0,36.0
-65,Fig Tree,5.0,84.0
-66,Sidi Bou - London,5.0,38.0
-67,Lambo Bar And Restaurant,5.0,59.0
-68,Les Douceurs de la Tentation,5.0,92.0
-69,L'Oculto,5.0,67.0
-70,Home SW15,5.0,38.0
-71,Fine Foods - Locanda Del Melo,5.0,101.0
-72,Bonoo,5.0,430.0
-73,129HRD,5.0,33.0
-74,Neo Bistro,5.0,31.0
-75,Hasu,5.0,67.0
-76,Mr Falafel,5.0,95.0
-77,Apollo Restaurant,5.0,55.0
-78,Killer Tomato,5.0,25.0
-79,Suvlaki Shoreditch,5.0,26.0
-80,Spanish Particular,5.0,32.0
-81,Alla Salute,5.0,44.0
-82,Olive Cafe,5.0,62.0
-83,Kolam South Indian Restaurant,5.0,87.0
-84,Pizza X Drink,5.0,30.0
-85,Saponara,5.0,83.0
-86,Cesni Authentic Turkish Restaurant,5.0,29.0
-87,Arment WJ & Son,5.0,96.0
-88,Pickled Fred,5.0,26.0
-89,Tanakatsu,5.0,28.0
-90,Bowling Bird,5.0,24.0
-91,The Spice Indian Restaurant,5.0,81.0
-92,Maureens Pie & Mash,5.0,59.0
-93,The Grove,5.0,51.0
-94,Massawa,5.0,48.0
-95,Festa Sul Prato,5.0,36.0
-96,Jhenn of the Vegan Ronin,5.0,29.0
-97,Gulab tandoori n1,5.0,27.0
-98,St James Bar,5.0,68.0
-99,Cafe de Provence,5.0,37.0
-100,Lattakia,5.0,48.0
-101,JIN SUSHI,5.0,63.0
-102,Nivens Fine Foods,5.0,66.0
-103,Tongue & Brisket,5.0,31.0
-104,The Best Turkish Kebab,5.0,200.0
-105,"Tommi's Burger Joint, Berwick St, Soho",5.0,44.0
-106,VBurger Camden,5.0,23.0
-107,E-Four Indian Fusion,5.0,100.0
-108,Yum Sa,5.0,21.0
-109,Slow Richie's,5.0,38.0
-110,Vegan Yes,5.0,19.0
-111,The English Grill,5.0,24.0
-112,Victory Mansion,5.0,49.0
-113,The Curry Room,5.0,27.0
-114,Trattoria Terra,5.0,72.0
-115,Totide,5.0,85.0
-116,Sikulo Italian Cafe & Restaurant,5.0,23.0
-117,CookDaily,5.0,23.0
-118,Kouzina Express,5.0,42.0
-119,The Continental Pantry,5.0,21.0
-120,Pizza Pickup,5.0,21.0
-121,Paul Rothe & Son,5.0,52.0
-122,Room 43 Bar & Kitchen,5.0,25.0
-123,Asmak albasha,5.0,24.0
-124,The Italians,5.0,30.0
-125,Nanashi,5.0,20.0
-126,Le Tran Cafe,5.0,26.0
-127,Panzerotto Blues,5.0,36.0
-128,Pizzeria Pinocchio,5.0,53.0
-129,Simply Tasty Cafe&Kitchen,5.0,38.0
-130,Yucca,5.0,20.0
-131,India Garden,5.0,27.0
-132,New City Chinese Restaurant,5.0,49.0
-133,Farina Pizzeria,5.0,16.0
-134,L'oro di Napoli,5.0,77.0
-135,Mamma Dough - Peckham,5.0,33.0
-136,PitStop,5.0,55.0
-137,The Walrus Room,5.0,36.0
-138,Bassoon Bar,5.0,85.0
-139,Pizzeria Di Camden,5.0,27.0
-140,Vanilla,5.0,43.0
-141,Malaysian Deli,5.0,52.0
-142,The Fusion by Kai,5.0,47.0
-143,Chick-King,5.0,42.0
-144,Nepal Authentic Dining,5.0,48.0
-145,Carpe Diem,5.0,56.0
-146,Le Merlin,5.0,25.0
-147,Julia Domna Cafe,5.0,16.0
-148,Sumika,5.0,46.0
-149,Aleion,5.0,16.0
-150,Smoke & Salt,5.0,25.0
-151,Norris + Knight,5.0,32.0
-152,Cafe 12,5.0,53.0
-153,Stagolee's Hot Chicken & Liquor Joint,5.0,21.0
-154,Hawraman Cafe Bar,5.0,19.0
-155,Bueno Argentinian Eatery & Steakhouse,5.0,18.0
-156,Hiba Street,5.0,22.0
-157,Qasioun Restaurant,5.0,48.0
-158,Tummy Kom4ort Nigerian Restaurant (African Cuisine),5.0,21.0
-159,German Kraft Beer,5.0,16.0
-160,All Inn One,5.0,40.0
-161,The Three Lions,5.0,32.0
-162,Stables Cafe,5.0,20.0
-163,Memsaab Indian Cuisine,5.0,17.0
-164,Peers' Dining Room,5.0,34.0
-165,Nippon Izakaya,5.0,19.0
-166,Miki's Paradise,5.0,25.0
-167,Menya Ramen,5.0,16.0
-168,Cafe Pronto,5.0,47.0
-169,Miod Malina,5.0,28.0
-170,Tonis Amalfi,5.0,16.0
-171,Wild Thyme,5.0,17.0
-172,Baristas Fusion Cafe,5.0,61.0
-173,The Greenhouse Deptford,5.0,29.0
-174,Cravings La Carreta,5.0,24.0
-175,Tiramisu Cafe,5.0,33.0
-176,Delizie D'italia,5.0,35.0
-177,Camden Pizza Co,5.0,16.0
-178,Cafe Green,5.0,38.0
-179,Bariba' Italian Deli,5.0,43.0
-180,Bar 48,5.0,31.0
-181,Uno Organic and Natural Food,5.0,16.0
-182,Falafel Feast,5.0,14.0
-183,Curtis Caribbean Grill and Specialty Cakes,5.0,17.0
-184,La Cafeteria,5.0,50.0
-185,Zena,5.0,42.0
-186,Bruce Burgers,5.0,13.0
-187,Rumi Restaurant,5.0,30.0
-188,Paradise Parlour,5.0,15.0
-189,Sim's Steak House,5.0,50.0
-190,Nonna Bionda,5.0,16.0
-191,Sabor,5.0,50.0
-192,Clipper Bar,5.0,14.0
-193,Koi Ramen Bar,5.0,18.0
-194,Enjoy Lasagna,5.0,21.0
-195,The Original Smokehouse,5.0,14.0
-196,The Cinnamon,5.0,15.0
-197,PerBacco!,5.0,12.0
-198,Taco Queen,5.0,27.0
-199,La Violetta,5.0,28.0
-200,Hi-Ki Robata Grill & Sushi Bar,5.0,19.0
-201,Bbq Grill,5.0,35.0
-202,Omnino St Paul's,5.0,12.0
-203,Bufala Di Londra,5.0,12.0
-204,Panorama,5.0,12.0
-205,Simya Korean Restaurant,5.0,42.0
-206,Jimmy and the Bee,5.0,18.0
-207,Il Cavaliere,5.0,32.0
-208,BurgerUK,5.0,16.0
-209,Alcazar Lounge,5.0,22.0
-210,Nickel,5.0,24.0
-211,The Patate,5.0,21.0
-212,Thai Cafe Restaurant,5.0,33.0
-213,The Feel Good Cafe,5.0,24.0
-214,Lost Boys Pizza,5.0,12.0
-215,Infusion Asian Fusion Restaurant & Bar,5.0,13.0
-216,Sandwich Shop,5.0,15.0
-217,Hullabaloo,5.0,14.0
-218,HealthyWealthy,5.0,26.0
-219,Pizza Euforia,5.0,62.0
-220,Indian Accent,5.0,11.0
-221,Koi Ramen Bar,5.0,14.0
-222,Pho Ta,5.0,20.0
-223,Wandle Pirates,5.0,42.0
-224,Cafe Paolo,5.0,20.0
-225,Little Brazil Bar Restaurant Ltd,5.0,16.0
-226,Catalyst,5.0,14.0
-227,Kafeteryam Sandwich Bar,5.0,34.0
-228,Fino Bar Ristorante,5.0,13.0
-229,The Ship of Adventures,5.0,49.0
-230,Vicki's,5.0,36.0
-231,Brewer's Bar,5.0,19.0
-232,Sista Barista,5.0,24.0
-233,Midori Sushi,5.0,36.0
-234,The Listing,5.0,12.0
-235,Asoo's,5.0,25.0
-236,The Brompton Cafe & Bookshop,5.0,25.0
-237,Bel & Nev,5.0,19.0
-238,Mica cafe,5.0,26.0
-239,Mari Delicatessen,5.0,12.0
-240,Quilombero,5.0,19.0
-241,Andu Cafe,5.0,15.0
-242,Vicolo Romano,5.0,14.0
-243,Cheddar Deli,5.0,16.0
-244,The Green Room Bar & Eatery,5.0,16.0
-245,Paladar,5.0,13.0
-246,The Garden,5.0,38.0
-247,Ranya Restaurant,5.0,11.0
-248,Apulia Cafe Ltd,5.0,14.0
-249,Highams Lounge,5.0,18.0
-250,Green House Restaurant,5.0,35.0
-251,The Chelsea Cellar,5.0,51.0
-252,MENOO ECLECTIC FOODS,5.0,24.0
-253,Sandwich Street Kitchen,5.0,13.0
-254,Smaka,5.0,42.0
-255,Tea Darling,5.0,19.0
-256,Paglia e Fieno,5.0,19.0
-257,Pacific Social Club,5.0,21.0
-258,Chicago grill,5.0,12.0
-259,Monsoon,5.0,25.0
-260,Marcel & Sons,5.0,16.0
-261,Omar's Place,5.0,13.0
-262,Spier's,5.0,10.0
-263,Lechevalier Wine Bar/Shop,5.0,10.0
-264,Truly Splendid vintage tearoom,5.0,14.0
-265,Veeno London - St Paul's,5.0,8.0
-266,Morisco Paella & Fish Takeaway,5.0,14.0
-267,B'acino,5.0,11.0
-268,Castle's,5.0,19.0
-269,Mamma Mia Pizzeria,5.0,30.0
-270,Elite Fish Bar,5.0,30.0
-271,Shalamar Kebab House,5.0,15.0
-272,Piadina Genuina,5.0,14.0
-273,Roasted Bean,5.0,11.0
-274,Simon Drake's House of Magic,5.0,45.0
-275,Via Emilia by FOOD ROOTS,5.0,10.0
-276,Shoop Soup,5.0,12.0
-277,Benny's,5.0,22.0
-278,Olive,5.0,44.0
-279,B J's Pie And Mash Shop,5.0,11.0
-280,Oven East,5.0,47.0
-281,The Blue Room,5.0,13.0
-282,Bento Bab,5.0,14.0
-283,The Racketeer,5.0,9.0
-284,Dutch Courage Bar,5.0,19.0
-285,Venturi's Table Corporate Cookery Centre,5.0,16.0
-286,Volare Restaurant,5.0,11.0
-287,Melabes,5.0,8.0
-288,Salumeria Dino,5.0,21.0
-289,The Cuckoo N1,5.0,15.0
-290,Hanswurst,5.0,14.0
-291,Sams Cafe,5.0,21.0
-292,Baalbakis Restaurant,5.0,13.0
-293,Szechuan House,5.0,17.0
-294,Street Eats,5.0,37.0
-295,La Bottega di Anna,5.0,16.0
-296,Essence Cuisine,5.0,10.0
-297,Etles Uyghur Restaurant,5.0,11.0
-298,Moka East Cafe at the View Tube,5.0,28.0
-299,Freak Scene,5.0,9.0
-300,Horse Shoe Cafe,5.0,26.0
-301,Darwin,5.0,8.0
-302,Seth's Spice Hut,5.0,11.0
-303,Nyokee,5.0,10.0
-304,Ksara House,5.0,8.0
-305,Passo Restaurant,5.0,9.0
-306,Dukan 41,5.0,9.0
-307,Emek Kebab,5.0,15.0
-308,Food Room,5.0,14.0
-309,London Beer House,5.0,14.0
-310,The Frenchie,5.0,17.0
-311,Yada’s Kurdish Restaurant,5.0,12.0
-312,Tastes of the Nile,5.0,31.0
-313,Melody cafe,5.0,14.0
-314,Nelson's Restaurant,5.0,23.0
-315,Wrap City Kebab Halal,5.0,9.0
-316,Little Bird Gin,5.0,20.0
-317,Aqua Deli,5.0,17.0
-318,Salt & Vinegar,5.0,14.0
-319,London Velo,5.0,23.0
-320,Pizzeria Pomodoretto,5.0,10.0
-321,James Cochran N1,5.0,9.0
-322,Caffe Casbah,5.0,13.0
-323,Panda's Kitchen,5.0,32.0
-324,Maydanoz,5.0,8.0
-325,Black Olive Cooks,5.0,26.0
-326,The Arena Club and Sports Bar,5.0,28.0
-327,Jin-Da,5.0,9.0
-328,Mediterraneo Lebanese & Italian Cuisine,5.0,6.0
-329,DeliBeira,5.0,13.0
-330,The Craftsman Cafe,5.0,9.0
-331,The Sultan,5.0,11.0
-332,Black Bream,5.0,6.0
-333,Carmel by the Green,5.0,7.0
-334,222 Kitchen,5.0,9.0
-335,Coco's cafe,5.0,8.0
-336,Singtong Burger House,5.0,9.0
-337,Cremoloso Gelato,5.0,7.0
-338,Chicco d'oro,5.0,11.0
-339,Cafe de Nata,5.0,7.0
-340,The Antwerp Arms,5.0,11.0
-341,Cooks Pie and Mash Shop,5.0,13.0
-342,Bokit la,5.0,17.0
-343,Uyghur Restaurant,5.0,6.0
-344,MnM Gelato,5.0,8.0
-345,Skip Garden and Kitchen,5.0,15.0
-346,Colliers Wood Tandoori,5.0,19.0
-347,Tea2you,5.0,21.0
-348,Zakuski,5.0,20.0
-349,Cafe Rosi,5.0,18.0
-350,Light Bite,5.0,16.0
-351,Billy Smokes BBQ Howling Hops Location,5.0,10.0
-352,The Dartmouth Arms,5.0,9.0
-353,Hellenic Bakery,5.0,10.0
-354,Brindisa Shop,5.0,9.0
-355,Kuzu Shish,5.0,16.0
-356,Sumi-Ka Japanese Restaurant,5.0,11.0
-357,Camilya of Mensa,5.0,9.0
-358,Kapadokya Restaurant,5.0,26.0
-359,Dark Habit,5.0,8.0
-360,Amalfi caffeUK,5.0,23.0
-361,Harris HT,5.0,27.0
-362,The Larder,5.0,8.0
-363,Four Degree,5.0,16.0
-364,Pret A Manger,5.0,11.0
-365,Vitale - Italian Cuisine,5.0,13.0
-366,Railway Tavern,5.0,12.0
-367,Anima Sarda Italian Restaurant,5.0,29.0
-368,Gozleme House,5.0,9.0
-369,Spiritual Caipirinha Bar,5.0,23.0
-370,Delhi Bites,5.0,11.0
-371,Manor Cafe,5.0,11.0
-372,Alex's Place | Kebab And Steak House,5.0,22.0
-373,The Red Lion N16,5.0,9.0
-374,Charcoal Restaurant,5.0,8.0
-375,Coqfighter,5.0,7.0
-376,Art Deli,5.0,19.0
-377,Paul's Plaice,5.0,21.0
-378,3 Points Cafe,5.0,16.0
-379,Chilli Tuk Tuk,5.0,9.0
-380,Sara & Co Limited,5.0,9.0
-381,La pizzeria tartufo,5.0,6.0
-382,SushiHeads,5.0,12.0
-383,Rascals,5.0,5.0
-384,Lazzat Wembley,5.0,8.0
-385,Papaya,5.0,9.0
-386,O Gourmet Libanais,5.0,6.0
-387,Park's Edge Bar and Kitchen,5.0,6.0
-388,Zabardast,5.0,7.0
-389,Thenga Cafe,5.0,12.0
-390,DOGS Mika's Kitchen & Bar,5.0,10.0
-391,Pequeno Restaurant & Wine Bar,5.0,8.0
-392,Havana's Caffe,5.0,8.0
-393,Casa Maria,5.0,6.0
-394,Fish & Chic,5.0,5.0
-395,Brooksby's Walk E9,5.0,11.0
-396,Hoxton Cabin,5.0,6.0
-397,Sakura Sushi & Buns,5.0,9.0
-398,piggies,5.0,15.0
-399,Stillwater Cocktail Bar & Restaurant,5.0,8.0
-400,Gino's Cappuccino Bar,5.0,17.0
-401,The Lounge Cafe,5.0,20.0
-402,Martin Cafe,5.0,12.0
-403,Spier's Salads,5.0,13.0
-404,Perini & Perini,5.0,8.0
-405,Lamb's Cafe,5.0,16.0
-406,P Franco,5.0,5.0
-407,Riviera Bistro & Bar,5.0,18.0
-408,Tazze Grill,5.0,6.0
-409,Madeira Star,5.0,14.0
-410,Marino Fish Bar,5.0,16.0
-411,Regis Snack Bar,5.0,15.0
-412,Kitchen Table,5.0,16.0
-413,O Bombeiro Restaurante,5.0,11.0
-414,Portferford,5.0,14.0
-415,Wimpy,5.0,12.0
-416,Pasta Sereni,5.0,17.0
-417,Red Yellow Blue,5.0,8.0
-418,Pintadera Cafe,5.0,11.0
-419,Bernsteins,5.0,7.0
-420,Today Bread,5.0,6.0
-421,Umut Ocakbasi,5.0,11.0
-422,Wari Bashi,5.0,17.0
-423,Kisetsu,5.0,9.0
-424,Lena's Bar & Kitchen,5.0,48.0
-425,Lost & Found Bar,5.0,10.0
-426,Evelina's Patisserie,5.0,6.0
-427,Silvia of the Aesthetic Plate,5.0,11.0
-428,Di Carlo's Pizza & Pasta,5.0,10.0
-429,Machine,5.0,12.0
-430,Sushi and More,5.0,8.0
-431,Chequers Sandwich Bar,5.0,9.0
-432,L’angolo Bianco,5.0,9.0
-433,Kennedys Pizza & Pasta,5.0,16.0
-434,FooMum,5.0,7.0
-435,The Wagon @ cave,5.0,18.0
-436,Su Restaturant,5.0,16.0
-437,Siham Lounge Bar,5.0,9.0
-438,The Aylmer Pantry,5.0,14.0
-439,Happy Garden,5.0,8.0
-440,The Greenwich Pensioner Bar & Restaurant,5.0,5.0
-441,Simply Breakfast,5.0,10.0
-442,Pranzos,5.0,16.0
-443,Express Fish Bar,5.0,8.0
-444,Nemo's Fish and Chips,5.0,13.0
-445,The Liquor Works,5.0,9.0
-446,The Carvery - Mark Mason Hall - 86 St. James,5.0,7.0
-447,Sushi Haven,5.0,7.0
-448,Babel Cafe & Restaurant,5.0,5.0
-449,Rox Burger - Spitalfields,5.0,4.0
-450,Chris's Fish Bar,5.0,8.0
-451,Tarantella Ristorante Pizzeria,5.0,4.0
-452,Mono,5.0,5.0
-453,Passione Vino,5.0,7.0
-454,Hoxton Fish House,5.0,6.0
-455,Fish Inn at the Old Bank,5.0,10.0
-456,April's Cafe,5.0,5.0
-457,Tibb's Frankie,5.0,5.0
-458,The Vurger Co,5.0,7.0
-459,Khon Thai,5.0,6.0
-460,Host.Coffee,5.0,5.0
-461,Ruby Rose,5.0,6.0
-462,The Neat Cafe,5.0,6.0
-463,Saucer & Spritz,5.0,5.0
-464,Rose's Cafe,5.0,5.0
-465,Abbotshill,5.0,4.0
-466,Big V,5.0,6.0
-467,Mae + Harvey,5.0,5.0
-468,Holy Shot,5.0,7.0
-469,Food in Fabula,5.0,10.0
-470,Number 6 Coffee,5.0,5.0
-471,Tarbush Restaurant,5.0,4.0
-472,Foodinthemiddle,5.0,19.0
-473,Mo Pho Viet Cafe,5.0,12.0
-474,the Balham Kitchen,5.0,15.0
-475,Giuliano Putney,5.0,8.0
-476,Cafe Mandalay,5.0,13.0
-477,E-Mono,5.0,19.0
-478,Whole Meal Cafe,5.0,9.0
-479,Mighty Bite,5.0,8.0
-480,Lilika's Treats,5.0,10.0
-481,Bonners Fish Bar,5.0,13.0
-482,Al Farah Cafe,5.0,13.0
-483,Earls Sandwiches,5.0,8.0
-484,best london kebab,5.0,10.0
-485,The Hangout,5.0,7.0
-486,Tereza Joanne,5.0,7.0
-487,Rokkon,5.0,7.0
-488,Mosaic Grill,5.0,7.0
-489,Burgers on Broadway,5.0,8.0
-490,Basils,5.0,7.0
-491,Matulka,5.0,14.0
-492,The Friends Cafe,5.0,10.0
-493,Fish and Chips and Kebabs,5.0,6.0
-494,Spajz Meatball and Burger Shop,5.0,6.0
-495,Lucky Chip,5.0,6.0
-496,Ocean Fish Bar,5.0,6.0
-497,Boca - Latin Bites,5.0,4.0
-498,Goodies Foodies Bistro,5.0,3.0
-499,Michael Van Clarke,5.0,5.0
-500,Magara Restaurant,5.0,4.0
-501,Park View Cafe,5.0,6.0
-502,Core Collective - Kitchen,5.0,5.0
-503,dragon palace Chinese takeaway Chingford,5.0,6.0
-504,Golden Flakes Bakery,5.0,6.0
-505,The Little Cat Cafe,5.0,6.0
-506,Happy Sushi,5.0,5.0
-507,Press,5.0,4.0
-508,Fish Bar,5.0,7.0
-509,Nandines,5.0,4.0
-510,Aromma,5.0,6.0
-511,Gusto And Relish,5.0,7.0
-512,Deli Nene,5.0,5.0
-513,Sara of Pomodoro E Basilico,5.0,6.0
-514,Chesham Arms,5.0,3.0
-515,The Lamb,5.0,7.0
-516,Stephen Fries Burger Merchant,5.0,6.0
-517,La Piazza,5.0,4.0
-518,Food.it,5.0,4.0
-519,Amal Restaurant,5.0,4.0
-520,Rukhsana,5.0,10.0
-521,Five Four Ate,5.0,5.0
-522,Diddy's,5.0,4.0
-523,Golden Carp fish and chips,5.0,10.0
-524,Richard's Kitchen,5.0,4.0
-525,Cheese at Leadenhall,5.0,3.0
-526,Panizza,5.0,4.0
-527,Aladdins,5.0,4.0
-528,"Zabardast, the Indian Wrap Co.",5.0,4.0
-529,Tche Tapas,5.0,4.0
-530,Sea Garden & Grill,5.0,3.0
-531,Benz Burgers,5.0,4.0
-532,Attendant Clerkenwell,5.0,4.0
-533,The Grove,5.0,5.0
-534,Libertea,5.0,6.0
-535,Tang's Takeaway,5.0,3.0
-536,Luigi's Sandwich Bar,5.0,4.0
-537,The Angel Of Bow,5.0,3.0
-538,The Indian Dinner Box,5.0,4.0
-539,Gardenhouse Restaurant,5.0,3.0
-540,Liqui Liqui,5.0,3.0
-541,Good Samaritan,5.0,3.0
-542,Mister Lasagna Victoria,5.0,3.0
-543,Eastenders Pie & Mash,5.0,6.0
-544,Kebab Hut,5.0,11.0
-545,Ko Gu Ryo,5.0,38.0
-546,pedro's,5.0,11.0
-547,Le panier a brioche,5.0,13.0
-548,McDonald's,5.0,5.0
-549,Billingsgate Cafe,5.0,7.0
-550,Melange Chocolate,5.0,8.0
-551,Coolangatta Cafe UK,5.0,5.0
-552,The Bloody Oyster,5.0,12.0
-553,St. Anna,5.0,5.0
-554,Tufnell Park Kebabs,5.0,8.0
-555,Nathan Pie Shop,5.0,12.0
-556,Jade's Jerk,5.0,7.0
-557,Pizzeria Volare,5.0,6.0
-558,Sea Bream Fish Bar,5.0,10.0
-559,Vera's Kitchen,5.0,5.0
-560,B Grill,5.0,5.0
-561,Wild Heart,5.0,5.0
-562,Grove Park Deli,5.0,12.0
-563,Curry Hut,5.0,8.0
-564,The Bantu Chef's Kitchen,5.0,9.0
-565,Al's Cafe,5.0,6.0
-566,Dee Dee K's Snack Bar,5.0,6.0
-567,Diamond Kebab House,5.0,7.0
-568,Acton Cafe,5.0,14.0
-569,Bar 45,5.0,9.0
-570,Bavo,5.0,4.0
-571,Royal Dragon,5.0,9.0
-572,Sunnisa Thai Restaurant,5.0,4.0
-573,Rustichino,5.0,5.0
-574,Earls Sandwiches,5.0,7.0
-575,Bleecker Bloomberg,5.0,4.0
-576,The Athenian,5.0,4.0
-577,The Old Time Music Hall,5.0,9.0
-578,Fishy Business,5.0,13.0
-579,Hoa Phuong,5.0,14.0
-580,1n1 Fashion n Pizza,5.0,12.0
-581,Recharge,5.0,6.0
-582,The Little Sofia,5.0,11.0
-583,Mes Amis Cafe,5.0,6.0
-584,Grace Belgravia,5.0,7.0
-585,Holmesbake,5.0,8.0
-586,Century,5.0,5.0
-587,Shot,5.0,6.0
-588,Bell Boi,5.0,8.0
-589,Balti Lounge,5.0,15.0
-590,La Mediterranea,5.0,5.0
-591,Cafe Jasmine,5.0,6.0
-592,Hometown Rolls & Baguettes,5.0,5.0
-593,Dacha Russian Shop,5.0,5.0
-594,City Sports Pub and Grill,5.0,5.0
-595,Wrights Bar,5.0,5.0
-596,Micky's Chippy,5.0,12.0
-597,Tex Bites,5.0,8.0
-598,George's Fisheries,5.0,7.0
-599,The Best Steak And Cocktail Restaurant,5.0,8.0
-600,Cool Breeze,5.0,5.0
-601,Aveqia London,5.0,7.0
-602,Amici Coffee Deli,5.0,9.0
-603,Instablue cafe & diner,5.0,6.0
-604,Kafe 1788,5.0,4.0
-605,Primi Piatti,5.0,5.0
-606,White Rabbit Cafe,5.0,5.0
-607,Picanha Brazilian Steakhouse,5.0,4.0
-608,Requinte Bistro,5.0,4.0
-609,Sushi Japanese,5.0,5.0
-610,Serbet Restaurant,5.0,4.0
-611,Queens Head,5.0,10.0
-612,Cafe Talia,5.0,5.0
-613,The Food Yard,5.0,4.0
-614,Manzanos Latin American Bistro,5.0,25.0
-615,Ambience Express 2,5.0,17.0
-616,Pasta Boys,5.0,13.0
-617,Brooklyn Diner,5.0,8.0
-618,Frankie Goes to Bollywood,5.0,4.0
-619,Leon,5.0,4.0
-620,Asador Argentine Steaks and Burger,5.0,2.0
-621,Wasoukan Europe,5.0,4.0
-622,Mega Bites,5.0,4.0
-623,Vittorio's Deli,5.0,2.0
-624,Curry Shack,5.0,8.0
-625,Zanelli's Sandwich Bar,5.0,5.0
-626,Mr Cee's Caribbean Cafe,5.0,4.0
-627,Merchant House of Fleet Street,5.0,3.0
-628,Honi Poke,5.0,3.0
-629,Old Street Records,5.0,2.0
-630,Cutting Chai,5.0,3.0
-631,A y A,5.0,7.0
-632,Wrapchic,5.0,2.0
-633,Blue Tree Kitchen,5.0,3.0
-634,Chaconia,5.0,8.0
-635,Diners Delight,5.0,3.0
-636,Schnitzellondon,5.0,3.0
-637,H's Cafe,5.0,3.0
-638,Ground Control,5.0,5.0
-639,The Buffalo,5.0,4.0
-640,Cheezelo,5.0,3.0
-641,Daddy Buns,5.0,2.0
-642,Emily's Kitchen,5.0,6.0
-643,Cafe Mosaic,5.0,2.0
-644,Kimura,5.0,3.0
-645,School House Cafe,5.0,3.0
-646,Change Please,5.0,3.0
-647,Ivy's,5.0,4.0
-648,Subtitles Cafe,5.0,3.0
-649,Zucla Festival of Food,5.0,3.0
-650,Patisserie Valerie,5.0,2.0
-651,The Village Deli,5.0,3.0
-652,The Village Tandoori,5.0,4.0
-653,Mr. Gingham,5.0,7.0
-654,The Poppy Pantry,5.0,2.0
-655,Merci Marie,5.0,8.0
-656,The Birkbeck Tavern,5.0,7.0
-657,Docklands Fish Bar,5.0,2.0
-658,The Kitchen SE12,5.0,4.0
-659,Flank,5.0,2.0
-660,Grabthai,5.0,2.0
-661,Calverts Deluxe Coffee,5.0,4.0
-662,Laoma,5.0,2.0
-663,The Athenian Greek Street Food,5.0,3.0
-664,House of Spicy,5.0,4.0
-665,Cafe Mimosa,5.0,2.0
-666,La Vera Pizza,5.0,3.0
-667,The Lunch Box,5.0,2.0
-668,Mosaic Cafe,5.0,2.0
-669,Ken's Cafe,5.0,2.0
-670,Passos Chicken Canteen,5.0,2.0
-671,Teas,5.0,2.0
-672,Fakhreldine,5.0,6.0
-673,Peking Garden Chinese Food Takeaway,5.0,3.0
-674,Ground5 Shisha Lounge,5.0,4.0
-675,Huqqa Lounge,5.0,2.0
-676,Rizo's,5.0,2.0
-677,Hawker Street,5.0,2.0
-678,The Cake Parlour,5.0,5.0
-679,Classic Indian Cuisine,5.0,7.0
-680,Cafe Heath,5.0,4.0
-681,Milletti's Cafe,5.0,3.0
-682,Messapica,5.0,2.0
-683,Debenhams,5.0,3.0
-684,Poncho 8,5.0,7.0
-685,ZebraX,5.0,4.0
-686,Golden Baklava,5.0,4.0
-687,Madiera Star Cafe,5.0,4.0
-688,The London Cocktail Club,5.0,2.0
-689,Meskerem Restaurant,5.0,5.0
-690,King Rooster,5.0,2.0
-691,Battenberg Badger,5.0,2.0
-692,Ginger Jules,5.0,4.0
-693,Cafe Dee,5.0,8.0
-694,Salt & Pepper,5.0,4.0
-695,Waterfront London,5.0,2.0
-696,Club Zetter,5.0,2.0
-697,Mem's Corner Cafe,5.0,3.0
-698,Aux Merveilleux de Fred Clapham,5.0,4.0
-699,Everest Spice,5.0,3.0
-700,The Camden Assembly,5.0,2.0
-701,Duri Mart Ltd,5.0,5.0
-702,Enoteca Rosso,5.0,2.0
-703,Mortimer House Kitchen,5.0,2.0
-704,Nest,5.0,3.0
-705,Andalucia Palace,5.0,3.0
-706,Mydetoxdiet,5.0,2.0
-707,The Twins Healthy Habitat,5.0,4.0
-708,7 Tales,5.0,3.0
-709,Motu Indian Kitchen - Battersea,5.0,3.0
-710,Deli 98,5.0,3.0
-711,Wings and Things,5.0,4.0
-712,Kobe Burger,5.0,2.0
-713,Bean & Wheat by Adam Handling,5.0,3.0
-714,Saporita,5.0,3.0
-715,Harley Dogs,5.0,3.0
-716,Coco di Mama,5.0,2.0
-717,Petit Blue Cafe,5.0,3.0
-718,New Bombay Kitchen,5.0,2.0
-719,L'Orchidee Macarons & Cakes,5.0,3.0
-720,Palm Pizzeria,5.0,2.0
-721,Melissa,5.0,2.0
-722,Tops Pizza,5.0,4.0
-723,Great Guns Social,5.0,2.0
-724,Outside The Box Islington,5.0,3.0
-725,Wings and ribs,5.0,3.0
-726,Tossed,5.0,3.0
-727,Sophie's Steakhouse & Bar,5.0,2.0
-728,More Italy,5.0,3.0
-729,The Nile Cafe,5.0,4.0
-730,Burger Bros,5.0,2.0
-731,Shanel's Sandwich Bar,5.0,4.0
-732,Horizon Patisserie and Viennoiserie,5.0,2.0
-733,Kape Barako,5.0,2.0
-734,Cafe Forever,5.0,5.0
-735,Patty & Bun,5.0,2.0
-736,Cafe Montmartre,5.0,7.0
-737,Armoury House,5.0,4.0
-738,Le Palmier,5.0,4.0
-739,Island Poke,5.0,2.0
-740,Nan True Thai,5.0,2.0
-741,Garrick Club,5.0,2.0
-742,Amigos Restaurant Ltd,5.0,3.0
-743,Ana's Croquetas,5.0,2.0
-744,Grande Maison Restaurant,5.0,2.0
-745,The Shed,5.0,3.0
-746,Kubo,5.0,3.0
-747,Bishop of Norwich,5.0,4.0
-748,Woolley Catering Co Ltd,5.0,4.0
-749,Uncle Wrinkle,5.0,5.0
-750,Bridge Cafe,5.0,6.0
-751,Poppins Cafe,5.0,4.0
-752,All In A Pickle,5.0,4.0
-753,Pizza Amore,5.0,21.0
-754,Tops Pizza,5.0,5.0
-755,The Whip,5.0,10.0
-756,Old Ford's Deli,5.0,9.0
-757,19 Brooks Mews,5.0,4.0
-758,Yeast Bakery,5.0,4.0
-759,Globe,5.0,5.0
-760,Cod's Plaice,5.0,4.0
-761,The Little Ship club,5.0,13.0
-762,Mick Darnalds,5.0,6.0
-763,Monte's Delicatessen,5.0,8.0
-764,Snug Art Cafe,5.0,10.0
-765,Les Gourmets des Ternes,5.0,11.0
-766,La Rochetta,5.0,5.0
-767,Harris + Hoole,5.0,6.0
-768,Westfield White City Ariel Way,5.0,4.0
-769,Piazza della Cucina,5.0,20.0
-770,The Ship's Galley,5.0,9.0
-771,Queen of Babylon,5.0,4.0
-772,Deli Boutique,5.0,5.0
-773,The Bird In Hand Pub and Restaurant,5.0,6.0
-774,Brewbird,5.0,6.0
-775,Creperie Nicolas,5.0,6.0
-776,Two Golden Sisters,5.0,5.0
-777,Caledonian Cafe,5.0,6.0
-778,EN2 Flavas,5.0,8.0
-779,La gastronomia,5.0,5.0
-780,Hungry Turtle,5.0,10.0
-781,Britannia Fish Bar,5.0,5.0
-782,Euro Cafe,5.0,5.0
-783,Asian Restaurant,5.0,8.0
-784,Family Cafe,5.0,7.0
-785,Arbour Cafe,5.0,4.0
-786,Re:Fresh Me,5.0,5.0
-787,Ostara,5.0,6.0
-788,Cee Bee,5.0,4.0
-789,We Brought Beer,5.0,4.0
-790,Scotts Steakhouse,5.0,6.0
-791,Smokin' Aces BBQ,5.0,4.0
-792,Star Fish Bar,5.0,6.0
-793,Hirsinger and Strauss,5.0,9.0
-794,Neat Restaurant,5.0,
-795,Funfetti,5.0,
-796,The Tiffin Tin,5.0,
-797,The Purple Taj,5.0,2.0
-798,La Tante Claire,5.0,2.0
-799,Que Tapas,5.0,
-800,The White Swan,5.0,
-801,Hoxton Beach Cafe,5.0,2.0
-802,Dooglebuds Restaurant,5.0,2.0
-803,Coast,5.0,
-804,La Manche,5.0,2.0
-805,Time Kebab House 2,5.0,2.0
-806,Hash Green,5.0,
-807,Zio & Zia,5.0,
-808,Pizza Hotline Kebab And Chicken,5.0,
-809,Market Green,5.0,2.0
-810,Poplar Fried Chicken,5.0,
-811,Lads Who Lunch,5.0,
-812,Express Pizza Co,5.0,
-813,Chicken Cottage,5.0,
-814,Pisa Pizza,5.0,
-815,Rio Cafe Restaurant & Bar,5.0,
-816,Caloroso Pizza,5.0,
-817,Dezato,5.0,
-818,Sea Breeze Restaurant & Juice Bar,5.0,
-819,Spoons Restaurant,5.0,3.0
-820,Nani Cafe,5.0,2.0
-821,Cafe 57,5.0,2.0
-822,The Craft Beer Social Club,5.0,
-823,Thoy Juice,5.0,4.0
-824,Pizzolo,5.0,2.0
-825,Little Rock Cafe,5.0,
-826,Green Orchard,5.0,
-827,Dallas Steak House,5.0,
-828,The Damask Restaurant,5.0,6.0
-829,Baz & Fred Ltd,5.0,
-830,Soup Opera - Covent Garden,5.0,
-831,Anuraag Tandoori Restaurant,5.0,
-832,Soulmatefood Kitchen,5.0,
-833,Julia's Little Oyster,5.0,
-834,Rich Hill Chinese Takeaway,5.0,
-835,Bake and Cake,5.0,
-836,Pizza Express,5.0,2.0
-837,Le Pain Quotidien,5.0,
-838,Forest Kebab,5.0,4.0
-839,Maestro Cafe,5.0,4.0
-840,The Girl Of Sandwich,5.0,
-841,Saigon Streat,5.0,
-842,Chick,5.0,
-843,Herne Hill Fish Bar,5.0,2.0
-844,Rika's Naturals,5.0,
-845,Woody Pizza,5.0,
-846,Grill4You,5.0,
-847,Caglar Kebab,5.0,4.0
-848,The Curry King,5.0,2.0
-849,O La Lah Pizza,5.0,
-850,Vina Kitchen,5.0,
-851,Park Life Cafe,5.0,2.0
-852,Desi Pitha Ghor,5.0,
-853,The Artisan Bistro,5.0,38.0
-854,Westside Cafe and Sandwich Bar,5.0,2.0
-855,Mailinda,5.0,2.0
-856,Mindo's,5.0,
-857,Phoenix Blend,5.0,2.0
-858,Bloomsburys,5.0,
-859,The Living Room Soho,5.0,
-860,Station House,5.0,
-861,The Patio,5.0,3.0
-862,The Brunel,5.0,
-863,Cocochinouk,5.0,
-864,Star Cafe,5.0,
-865,Perla Bar & Restaurant,5.0,2.0
-866,Ho Wah,5.0,
-867,Sburoni,5.0,
-868,Gourmet Goat,5.0,
-869,Wrapchic,5.0,
-870,Mediterranean Breeze,5.0,
-871,The Jasmine Kitchen,5.0,
-872,Benjos ltd,5.0,2.0
-873,John Charlick Foods,5.0,4.0
-874,Original Peri Peri Chicken,5.0,3.0
-875,The Vintage Fish,5.0,
-876,The Things We Love.,5.0,2.0
-877,Taste of Ethiopia,5.0,2.0
-878,Pinuccio,5.0,
-879,Franco bar & restaurant,5.0,2.0
-880,Soawn Soan,5.0,3.0
-881,Gamberini Cafe and Grill,5.0,4.0
-882,Delicous khana,5.0,2.0
-883,80 Stone Cafe,5.0,
-884,Sakeya,5.0,
-885,KFC,5.0,
-886,1851,5.0,
-887,Enoteka,5.0,2.0
-888,Bridge cafe,5.0,
-889,Zaza,5.0,
-890,Martini Bar and Kitchen,5.0,
-891,Curry Garden London,5.0,
-892,The Temple of the Golden Pavilion,5.0,
-893,Bali,5.0,
-894,Leyton Forest Kebab,5.0,5.0
-895,Pizza Rossa,5.0,
-896,Bloomsbury Cafe - UCLU,5.0,
-897,Capri,5.0,
-898,Coppermill,5.0,2.0
-899,Irvings,5.0,
-900,Jesse's,5.0,
-901,Sethi’s Spice Hut,5.0,2.0
-902,Auguste Handmade,5.0,
-903,Lezziz Restaurant,5.0,
-904,Nani Cafe,5.0,
-905,Cafe Nano,5.0,2.0
-906,Secret Sunday Lunch Club,5.0,2.0
-907,Xiclo Limited,5.0,
-908,Diamond Grill,5.0,
-909,Muswell Hill Cafeteria,5.0,3.0
-910,Natureall Organic&Healthy Store,5.0,
-911,Molana,5.0,
-912,Soda Jerks Ltd,5.0,2.0
-913,Passenger Cafe Bar,5.0,2.0
-914,South Pole Saloon,5.0,
-915,The Escape Cafe,5.0,
-916,Cuckoo Hibou,5.0,
-917,Arian Restaurant,5.0,
-918,Organic Stall,5.0,2.0
-919,Rhubarb,5.0,
-920,Maurgies Cafe,5.0,3.0
-921,The Grill Master,5.0,3.0
-922,PastaMista,5.0,2.0
-923,Mayfair Pasta & Sandwich Bar,5.0,
-924,Shoreditch Wood Fried Pizza,5.0,
-925,White Horse,5.0,2.0
-926,Munchizz,5.0,
-927,Itsu,5.0,
-928,New Dragon Chinese Takeaway,5.0,
-929,All Bar One,5.0,
-930,Orange Cafe,5.0,3.0
-931,GAIL's Bakery,5.0,
-932,Nhatrang Kitchen,5.0,2.0
-933,Black Sheep Coffee,5.0,
-934,Abbey,5.0,
-935,Adela's Cafe,5.0,
-936,En Root,5.0,4.0
-937,La Grande Bouchee,5.0,4.0
-938,Addis Ababa Restaurant,5.0,2.0
-939,Zabka Polish Delicatessen,5.0,3.0
-940,Pizza Go Go,5.0,
-941,Sam's,5.0,
-942,Rose Garden Chinese Takeaway,5.0,2.0
-943,Haweli Indian Restaurant,5.0,
-944,Chick Stop,5.0,
-945,Ballyhoo,5.0,
-946,Fortune,5.0,3.0
-947,River Ganges,5.0,
-948,Royal Ribs,5.0,
-949,Wenlock Cafe,5.0,
-950,La Terraza,5.0,5.0
-951,Miran Restaurant,5.0,
-952,Franks,5.0,
-953,Cappy's Pizza,5.0,
-954,Golden House Take Away,5.0,
-955,Pizza House,5.0,2.0
-956,Tent Cafe,5.0,
-957,Popeye Pizza,5.0,
-958,Favorite Fried Chicken,5.0,
-959,Kebab Town,5.0,
-960,Royal Fish Bar,5.0,4.0
-961,Duke Thai,5.0,
-962,Masala Indian Takeaway,5.0,
-963,City Noodles,5.0,
-964,Zorya Restaurant,5.0,
-965,Pashmina,5.0,
-966,Pizza Phiroza,5.0,
-967,La Pinata - Mexican Food,5.0,
-968,Crown Public House,5.0,
-969,Yun Ya,5.0,
-970,Dash,5.0,4.0
-971,Tincan,5.0,
-972,Shandeez,5.0,
-973,Goppa Restaurant & Pizzeria,5.0,
-974,Friuliamo,5.0,
-975,"Olympic Fish, Chips and Kebabs",5.0,2.0
-976,Artcafe,5.0,2.0
-977,That's Amore Of Italy Ltd Camden Town,5.0,
-978,Tandoori Hut,5.0,2.0
-979,Coco di Mama,5.0,
-980,Coco di Mama,5.0,
-981,Dallas Chicken And Ribs,5.0,
-982,Fongs Kitchen,5.0,3.0
-983,Coco di Mama,5.0,
-984,Punjabi Special,5.0,
-985,The Charcoal Grill,5.0,3.0
-986,Uptown Cafe,5.0,
-987,The Whistleblower Pub,5.0,
-988,New Golden Wok,5.0,
-989,Mona's Cafe,5.0,
-990,Tasty's,5.0,
-991,Khobkhun Thai Cuisine,5.0,
-992,Arveja Cafe,5.0,
-993,Dial A Curry,5.0,4.0
-994,Khorasan,5.0,3.0
-995,Uplands cafe,5.0,
-996,Akar Kebabs,5.0,
-997,Aqsa,5.0,4.0
-998,Pizza On Demand,5.0,
-999,Hellenic Restaurant,5.0,2.0
-1000,Amici,5.0,
-1001,Caffe Nero,5.0,
-1002,Subway,5.0,
-1003,Legacy Restaurant & Bar,5.0,
-1004,Tasty Kebabs,5.0,
-1005,Lams House,5.0,3.0
-1006,The Best Kebabs & Burgers,5.0,4.0
-1007,Indian Fantasy,5.0,
-1008,Katies,5.0,
-1009,Brixton Pound Cafe,5.0,2.0
-1010,Oriental Chef,5.0,
-1011,Domino's Pizza,5.0,
-1012,Noura Restaurant Bar and Grill,5.0,
-1013,Sake Dreams,5.0,
-1014,Gentingo Casino,5.0,3.0
-1015,Dixy Fried Chicken,5.0,4.0
-1016,Natalie's Cafe & Restaurant,5.0,3.0
-1017,Soho Radio,5.0,2.0
-1018,Balti Empire,5.0,
-1019,Dragon Takeaway,5.0,
-1020,Il giardino,5.0,2.0
-1021,Hing Loong Takeaway,5.0,
-1022,Pizza Go Go,5.0,
-1023,Kebab Delight,5.0,2.0
-1024,Etsu Cafe,5.0,
-1025,The Railway Tavern,5.0,2.0
-1026,Minas Brasil,5.0,
-1027,Great Eastern Fish Bar,5.0,2.0
-1028,Tonky Gorilla,5.0,
-1029,J Grodzinski & Daughters,5.0,2.0
-1030,Oat Milk,5.0,2.0
-1031,Aromateaco,5.0,2.0
-1032,Amaretto,5.0,2.0
-1033,Westegg,5.0,
-1034,Himalayan Spice,5.0,
-1035,Ocean Fish Bar,5.0,2.0
-1036,Oracle Organic,5.0,2.0
-1037,Tuscan Noodles,5.0,
-1038,Islandpoke,5.0,2.0
-1039,The Grill @ 93,5.0,
-1040,Baban's Naan,5.0,
-1041,Finns of Chelsea,5.0,2.0
-1042,Caviar Classic,5.0,2.0
-1043,The Prince of Wales,5.0,2.0
-1044,St Annas,5.0,
-1045,Pig Dogs and Brisket,5.0,
-1046,Papaz Peri Peri,5.0,
-1047,Coco di Mama,5.0,
-1048,El Patron,5.0,2.0
-1049,D & Q fish and chips eat in or takeaway,5.0,
-1050,European Taste Restaurant,5.0,4.0
-1051,Candy Cafe & Shisha Lounge,5.0,
-1052,Spice King,5.0,
-1053,Cafe Prov,5.0,3.0
-1054,Tamal.co.uk,5.0,6.0
-1055,Mumbai Tadka,5.0,2.0
-1056,Purple Chilli Lounge,5.0,4.0
-1057,Sardinia Corner,5.0,
-1058,Myst Lounge,5.0,
-1059,The Virgin Queen,5.0,
-1060,Compass Cafe,5.0,
-1061,Tungsing House,5.0,
-1062,Babylon Pizza,5.0,
-1063,Chopsticks,5.0,
-1064,Thaisty,5.0,
-1065,Arthur's,5.0,2.0
-1066,Warisan Cafe,5.0,
-1067,Zoe,5.0,
-1068,The Studio Cafe,5.0,
-1069,The Pavilion,5.0,
-1070,Pasta Cosi,5.0,
-1071,The Sindian Grill House,5.0,
-1072,Urban Falafel,5.0,
-1073,Limone Fine Foods,5.0,
-1074,Mah's Kitchen,5.0,
-1075,Cocomaya,5.0,
-1076,Delish Thai Supper Club,5.0,
-1077,Cappone Pizzeria,5.0,4.0
-1078,Enjoy Cafe,5.0,
-1079,Hot Bread Cafe,5.0,2.0
-1080,de Vine Restaurant Coffee Bar,5.0,
-1081,Cafe Le Shiren,5.0,
-1082,Torero Tapas Bar & Restaurant,5.0,
-1083,Mcdonald's Restaurant,5.0,3.0
-1084,We Are Family & The Cafe Chantant,5.0,
-1085,Bloomingscent Cafe,5.0,
-1086,George,5.0,2.0
-1087,Youmoo,5.0,
-1088,Roots,5.0,
-1089,Golden Harvest Indian Restaurant,5.0,
-1090,Michael's,5.0,2.0
-1091,Dirty Harry's Soho,5.0,
-1092,Fresh Ground Coffee House Eltham,5.0,
-1093,Cicero Delicatessen,5.0,
-1094,Londen,5.0,
-1095,Spice Zone,5.0,2.0
-1096,Al-Jabal Bakery,5.0,
-1097,Kebab Place,5.0,
-1098,New Horizon Cafe,5.0,2.0
-1099,The Pitstop,5.0,
-1100,Chicken Addict,5.0,
-1101,The Workers' Cafe,5.0,
-1102,Tryencore,5.0,2.0
-1103,Jed's Food,5.0,
-1104,Company Below,5.0,2.0
-1105,Parkholme Supper Club,5.0,2.0
-1106,Con Gusto,5.0,
-1107,Pickled Pig Grub Club,5.0,2.0
-1108,Burgershack & Bar,5.0,2.0
-1109,Packhorse Pub,5.0,
-1110,Imbibe,5.0,
-1111,Meditaste,5.0,3.0
-1112,Davide's Kitchen,5.0,
-1113,Salle a manger,5.0,2.0
-1114,Keuken,5.0,
-1115,Chalk Farm Grill,5.0,
-1116,Early's Cafe,5.0,2.0
-1117,New Taz,5.0,
-1118,Curry Mania,5.0,
-1119,Cally Cafe,5.0,
-1120,Jerk in da Park,5.0,
-1121,Itsu,5.0,2.0
-1122,Tossed,5.0,
-1123,Guasacaca,5.0,2.0
-1124,Kuriya Keiko,5.0,3.0
-1125,Itsu,5.0,
-1126,Sangria,5.0,3.0
-1127,Cake world,5.0,
-1128,Napoli Pizzeria,5.0,2.0
-1129,Meat and Sea Ltd,5.0,
-1130,4 Mevsim,5.0,
-1131,Nour Express,5.0,
-1132,Ulumma-B Nigerian Igbo Restaurant and Bar,5.0,
-1133,Vanillaz Diner,5.0,
-1134,Hamer Restaurant,5.0,
-1135,Chris’s Fish Bar,5.0,
-1136,Delicious Vape,5.0,
-1137,Rowans Cafe Bar,5.0,4.0
-1138,Namaste,5.0,
-1139,Beltane&Pop,5.0,2.0
-1140,Nawroz,5.0,
-1141,Day Of The Raj N20,5.0,
-1142,The Cherry Tree Cafe,5.0,5.0
-1143,Table For 10,5.0,
-1144,GRABTHAI Bangkok Cafe - Liverpool Street,5.0,
-1145,Mum's,5.0,
-1146,Patty Island,5.0,
-1147,Malibu Bute Street,5.0,
-1148,Rao Deli,5.0,
-1149,The Grill Restaurant Doubletree Chelsea,5.0,
-1150,Fornetti Turnpike Lane,5.0,3.0
-1151,Dinner Jackets,5.0,
-1152,Copper Haandi,5.0,
-1153,Our Cottage,5.0,2.0
-1154,Bundu Khan,5.0,
-1155,Central,5.0,
-1156,Presto Pizza,5.0,2.0
-1157,Dough & So,5.0,
-1158,Bit,5.0,2.0
-1159,Bamboo Baboom,5.0,
-1160,Spark,5.0,2.0
-1161,Black & White Cafe,5.0,2.0
-1162,Lala Cafe,5.0,
-1163,Le Bijou Selma 2,5.0,3.0
-1164,Startisans,5.0,
-1165,Mydonos Restaurant,5.0,
-1166,Nusa Kitchen,5.0,
-1167,Snr Ceviche,5.0,
-1168,Bella Abaayo,5.0,
-1169,Mvmnt Cafe,5.0,
-1170,Pappadums,5.0,
-1171,Q fish restaurant,5.0,2.0
-1172,Durius River Caf,5.0,2.0
-1173,Rodeo cafe grill,5.0,
-1174,The Copper Tap,5.0,
-1175,BeBelge,5.0,6.0
-1176,Peters & Co. Gin Palace,5.0,
-1177,Differenza Restaurant,5.0,
-1178,Brimsdown Grill & Pizza,5.0,
-1179,Indo Chinese Noodles,5.0,
-1180,Paradise Restaurant,5.0,2.0
-1181,La crepe des delices,5.0,
-1182,Beirut Canteen,5.0,
-1183,Bistro Mirey,5.0,
-1184,Happy Pizza,5.0,2.0
-1185,Gail's Kitchen,5.0,
-1186,The Trew Era Cafe,5.0,2.0
-1187,The Corner Pin,5.0,
-1188,Pierre whites steak alegouse,5.0,2.0
-1189,Ustun Lahmacun,5.0,
-1190,Lamar cafe and lounge,5.0,
-1191,Scarlet Kitchen,5.0,
-1192,Olympus Kebabs,5.0,3.0
-1193,Citrus and Cocoa,5.0,6.0
-1194,W&D's Caribbean Delights,5.0,
-1195,Clerkenwell,5.0,
-1196,Taboon,5.0,
-1197,Sugahill Cafe,5.0,3.0
-1198,Louisiana Chilli Shack,5.0,4.0
-1199,TuJacks,5.0,2.0
-1200,Gastro Pub,5.0,
-1201,Stirred Cafe and Bar,5.0,
-1202,Will To Win Cafe,5.0,3.0
-1203,The Furlong Muswell Hill,5.0,2.0
-1204,Chang Thai Restaurant,5.0,2.0
-1205,Cafe Nile,5.0,2.0
-1206,Magnos Brasserie,5.0,
-1207,Neo's Kebab,5.0,
-1208,Joe & The Juice,5.0,
-1209,Joe & The Juice,5.0,
-1210,Rubys of London,5.0,2.0
-1211,Atlas moroccan and Italian restaurant,5.0,
-1212,Arawak Grill,5.0,
-1213,Inigo,5.0,
-1214,Camberwell Tandoori,5.0,
-1215,Tiffin'Cafe,5.0,
-1216,Zukoni's,5.0,
-1217,Sunshine Cafe,5.0,
-1218,Rex Cinema and Bar,5.0,
-1219,Barber-Surgeons' Hall,5.0,5.0
-1220,Wax,5.0,
-1221,Motion,5.0,
-1222,Terra Nera,5.0,2.0
-1223,The Millwall Cafe,5.0,
-1224,G Wadley's Meat Room,5.0,
-1225,Archway Town Cafe,5.0,2.0
-1226,The Mush Room Cafe,5.0,
-1227,Cafe East London,5.0,
-1228,Golden Plaice,5.0,
-1229,Safari Restaurant,5.0,2.0
-1230,L'orchidee Boutique Patisserie,5.0,
-1231,90Novanta,5.0,2.0
-1232,By Appointment Only Bar,5.0,
-1233,Med wraps ltd,5.0,3.0
-1234,Simply Spice,5.0,2.0
-1235,Cafe Selecta,5.0,3.0
-1236,Ef's,5.0,4.0
-1237,Chicken Valley,5.0,
-1238,Best Kebab In Town,5.0,3.0
-1239,Fernandez and Wells,5.0,
-1240,Two Feathers,5.0,
-1241,Neo's Bakery & Patisserie,5.0,2.0
-1242,Kfc,5.0,
-1243,Entricot,5.0,5.0
-1244,Stag,5.0,2.0
-1245,Tiramisu & Sweets Pusher,5.0,
-1246,Skewers,5.0,2.0
-1247,Work Man's Cafe,5.0,
-1248,Lewisham Kebab Centre,5.0,
-1249,Aromatic Delicatessen,5.0,4.0
-1250,Saint Sugar of London,5.0,
-1251,Starbucks Victoria - Palmer Street,5.0,
-1252,Nova Charcoal Grill,5.0,
-1253,Atrium,5.0,2.0
-1254,Chicken & Grill,5.0,
-1255,Shelter,5.0,
-1256,Nusa Kitchen - Plough Place,5.0,
-1257,Liliana Coffee,5.0,2.0
-1258,El Asadazo,5.0,
-1259,Yum yum,5.0,
-1260,Arte Restaurante Benfica,5.0,
-1261,Wing Lee Brockley,5.0,
-1262,Black Bear Burger,5.0,
-1263,Fig & Pistachio,5.0,3.0
-1264,Parkside Cafe,5.0,
-1265,Pan Of Asia,5.0,
-1266,Sushi Hana,5.0,
-1267,Bombay Bites,5.0,5.0
-1268,Bivio,5.0,
-1269,Curry Royal Tandoori,5.0,3.0
-1270,Flavour-E-Azam,5.0,2.0
-1271,Sabor Latino,5.0,4.0
-1272,Our Kitchen,5.0,
-1273,I Falafel,5.0,
-1274,Lebaneats,5.0,
-1275,El Amor Amor,5.0,3.0
-1276,Honey Moon,5.0,
-1277,Pizza Hut,5.0,
-1278,Dussin,5.0,
-1279,BurgerFi Wembley,5.0,2.0
-1280,Steak Republic,5.0,
-1281,Loven Bakery,5.0,
-1282,Grazie Assai,5.0,
-1283,Veggie Pret,5.0,
-1284,Max Snack Bar,5.0,3.0
-1285,Blue Marlin Fish Bar,5.0,
-1286,Mama Jumbe's,5.0,
-1287,Anfa,5.0,
-1288,Veli's Cafe,5.0,
-1289,Curry Express,5.0,2.0
-1290,Monsoon,5.0,2.0
-1291,Spoon - Tree,5.0,
-1292,The Falafel Bar,5.0,2.0
-1293,Balii Maamala's Restaurant,5.0,
-1294,GreenZen Poke and Matcha Bar,5.0,
-1295,Arches Cafe,5.0,
-1296,Totos Cafe,5.0,
-1297,Ten Thousand Hands,5.0,
-1298,Riverpoint Restaurant,5.0,
-1299,City Coffee Lounge,5.0,
-1300,Partybox75,5.0,2.0
-1301,The Notting Gill Chippy,5.0,
-1302,Silver River,5.0,
-1303,Elachi,5.0,2.0
-1304,Dragon City,5.0,
-1305,Meeraz,5.0,
-1306,The Griffin,5.0,
-1307,Cafe Leo,5.0,2.0
-1308,Helio's Cantina,5.0,
-1309,Grill on the Hill,5.0,4.0
-1310,The Cave Bar,5.0,
-1311,seawise,5.0,3.0
-1312,La Pasta,5.0,
-1313,Ocean Basket,5.0,3.0
-1314,Stir it up,5.0,
-1315,Mangal 1.1,5.0,4.0
-1316,Steves Breakfast Box,5.0,
-1317,Glo!,5.0,
-1318,Imly,5.0,2.0
-1319,Tiger Lilly,5.0,
-1320,The Hub,5.0,2.0
-1321,Wong's Happiness Diner,5.0,
-1322,Pret a Manger,5.0,
-1323,Anyday SuperSalad,5.0,
-1324,Sacred Cafe,5.0,2.0
-1325,Sun Chen Snack Bar,5.0,
-1326,Circus Bros,5.0,3.0
-1327,Warung Tempeh,5.0,2.0
-1328,The Rose Inn,5.0,
-1329,Varq London,5.0,
-1330,Wonderful Chinese & Thai,5.0,
-1331,Urban Bytez Limited,5.0,
-1332,Wagamama,5.0,
-1333,Fine Curry,5.0,
-1334,Corner Plus,5.0,
-1335,Shabab,5.0,
-1336,Gully,5.0,2.0
-1337,Eat,5.0,2.0
-1338,Eat,5.0,
-1339,Eat,5.0,2.0
-1340,Eat,5.0,2.0
-1341,Yiamas Taverna of London,5.0,5.0
-1342,The Breadroom,5.0,
-1343,Clare & Phoebe of the Kitchen Creative,5.0,2.0
-1344,Ali Baba Juice,5.0,2.0
-1345,The Wine Cellar Kentish Town,5.0,
-1346,Kudu Restaurant,5.0,
-1347,Seacole Social,5.0,
-1348,Sami's Deli,5.0,4.0
-1349,Busby's,5.0,4.0
-1350,Mountainview in Chislehurst,5.0,
-1351,Choja Sushi,5.0,
-1352,Fabulous 698B,5.0,3.0
-1353,Hennessy's,5.0,
-1354,The Provenance,5.0,
-1355,Shenaz Mauritian Fusion,5.0,2.0
-1356,Wrap It Up! Victoria,5.0,
-1357,Mam Vic's Plantain Parlour,5.0,
-1358,Maui Poke,5.0,
-1359,Salsa!,5.0,
-1360,Fusion Kitchen,5.0,
-1361,Tazza Lounge,5.0,
-1362,Buchanans Cheesemonger,5.0,2.0
-1363,Enjoy Cafe,5.0,
-1364,The Jerk & Roti Shack,5.0,
-1365,Hertford Best Kebab And Fish,5.0,
-1366,Nest Caf,5.0,
-1367,Sizzling Sausage,5.0,
-1368,San Giorgio,5.0,
-1369,Al's Place,5.0,2.0
-1370,Electric Dog,5.0,
-1371,TASTE Restaurant,5.0,
-1372,Tortuga Caribbean Restaurant & Cocktail Bar,5.0,2.0
-1373,Madina Grill,5.0,2.0
-1374,Superchef cafe,5.0,2.0
-1375,Hamlet Cafe,5.0,3.0
-1376,Sydney Arms,5.0,
-1377,Sovereign Wheelers,5.0,2.0
-1378,Shanaz,5.0,2.0
-1379,KEDAI KOPI London,5.0,3.0
-1380,Kusina Nova,5.0,
-1381,New Frosco,5.0,
-1382,Music Cafe,5.0,3.0
-1383,Marney's,5.0,
-1384,Arizona,5.0,
-1385,Leven Is Strijd,5.0,
-1386,Laksmi Tandoori,5.0,
-1387,La Stampa,5.0,
-1388,Khomali,5.0,
-1389,Kafa,5.0,
-1390,Orsino,5.0,2.0
-1391,Myatts Cafe,5.0,
-1392,Flautist & Firkin,5.0,
-1393,Erics Cafe,5.0,
-1394,De Verandah,5.0,
-1395,Colairo J,5.0,
-1396,Uludag Kebab,5.0,
-1397,Cafe Bar Sicilia,5.0,2.0
-1398,Bucci,5.0,4.0
-1399,Aunt Sallys,5.0,
-1400,Bice,5.0,
-1401,Rio's Piri Piri,5.0,
-1402,Nosh Eel And Pie House,5.0,
-1403,Pure,5.0,
-1404,Soup Opera - King's Cross,5.0,
-1405,Taka,5.0,
-1406,Manor,5.0,
-1407,Kohinoor,5.0,
-1408,Cafe Savvies,5.0,
-1409,May Va Chinese Restaurant,5.0,
-1410,Hai Phong Cafe,5.0,
-1411,Natty Tatty's,5.0,3.0
-1412,123 Pizza,5.0,
-1413,Wimpy,5.0,2.0
-1414,Clay Grill,5.0,
-1415,The Olive Tree,5.0,
-1416,Seabar,5.0,
-1417,Wick Fisheries,5.0,
-1418,Tatlici Adanalilar,5.0,
-1419,Kwan‘s Cuisine,5.0,
-1420,Townhouse,5.0,
-1421,Story Pizza,5.0,2.0
-1422,Kookies,5.0,3.0
-1423,Polka Cafe,5.0,2.0
-1424,Calcutta Tandoori restaurant,5.0,
-1425,Chave D'ouro,5.0,
-1426,Cucina Rustica London,5.0,
-1427,Cafe Express Willesden,5.0,2.0
-1428,La Grande Marque,5.0,
-1429,Marrakech Express,5.0,3.0
-1430,Yakamoz Restaurant,5.0,
-1431,The Classic Restaurant,5.0,3.0
-1432,Tuck Inn,5.0,
-1433,Spice Box,5.0,2.0
-1434,Chef cafe bistro & restaurant,5.0,
-1435,The Dining Room,5.0,
-1436,Caffe Nero,5.0,
-1437,Agrobeso,5.0,3.0
-1438,Make a Reservation at the Gallery,5.0,3.0
-1439,Santiago and Grace,5.0,
-1440,Oba Restaurant,5.0,5.0
-1441,I-Cuisine,5.0,2.0
-1442,Smoke'n'Roll,5.0,3.0
-1443,Achar,5.0,2.0
-1444,The Priory,5.0,
-1445,The Athenian,5.0,
-1446,Tibb's Frankie,5.0,2.0
-1447,the Old Cafe,5.0,
-1448,Blend,5.0,
-1449,Dub Plates Cafe,5.0,
-1450,Shaolin Restaurant,5.0,2.0
-1451,Suntrap,5.0,2.0
-1452,Ruchi Grill,5.0,2.0
-1453,Applecart Cafe,5.0,
-1454,Lo's Noodle Facotry,5.0,2.0
-1455,Promenade Bar & Grill,5.0,
-1456,Wearecoup,5.0,
-1457,Equation,5.0,2.0
-1458,Tsarevets,5.0,
-1459,Guido's - Chancery Lane,5.0,
-1460,Lovelygloworm Cafe,5.0,
-1461,Patak Stroud Green Islington,5.0,2.0
-1462,BodyKitchen,5.0,
-1463,Salsas Latin Street Food,5.0,
-1464,Tuckshop,5.0,4.0
-1465,Kimmies Jerkjoint,5.0,
-1466,High Water,5.0,3.0
-1467,Heritage Restaurant,5.0,2.0
-1468,Cafe on the Marshes,5.0,
-1469,The Pizza Room,5.0,
-1470,Berluskoni's,5.0,
-1471,The Natural Philosopher,5.0,
-1472,Tony's Restaurant,5.0,
-1473,Yasser Charcoal Grill,5.0,
-1474,Tortilla's Home,5.0,4.0
-1475,Matok,5.0,
-1476,City Cafe,5.0,2.0
-1477,The Cockney Jew,5.0,2.0
-1478,Empress of China,5.0,
-1479,Peony,5.0,3.0
-1480,Eastside BAr and Restaurant,5.0,3.0
-1481,Souper Wraps,5.0,5.0
-1482,Benugo,5.0,
-1483,Pizza bar one,5.0,
-1484,WokTube,5.0,2.0
-1485,Saga,5.0,
-1486,Noaman's Sandwich Bar,5.0,2.0
-1487,The Pavilion Sports & Leisure Club,5.0,
-1488,Sports Bar,5.0,4.0
-1489,Savoy Cafe,5.0,5.0
-1490,Alexandra Tandoori,5.0,6.0
-1491,Hello Beirut,5.0,8.0
-1492,Cafe Olive,5.0,10.0
-1493,Hong Kong Garden,5.0,5.0
-1494,Angela's Cafe,5.0,7.0
-1495,Eat,5.0,5.0
-1496,Delicias UK,5.0,4.0
-1497,Rice And Peas Caribbean Takeaway,5.0,8.0
-1498,Shisha Call,5.0,5.0
-1499,DJ's Coffee Shop,5.0,10.0
-1500,Aji Teppanyaki,5.0,4.0
-1501,Too Many Cooks,5.0,4.0
-1502,Cafe Gospoda,5.0,4.0
-1503,Perfect Fried Chicken,5.0,7.0
-1504,La Crema,5.0,4.0
-1505,Cafe Marina,5.0,5.0
-1506,Book & Kitchen,5.0,6.0
-1507,Huseyin Ozer Dr. Hon Sci,5.0,6.0
-1508,Gizli Restaurant,5.0,51.0
-1509,Workman's Cafe,5.0,4.0
-1510,El Vaquero,5.0,6.0
-1511,Kebana Kebabish,5.0,4.0
-1512,FS2,5.0,4.0
-1513,Santana Grill,5.0,8.0
-1514,Farm:Shop & Cafe,5.0,4.0
-1515,Pizza il Mercato,5.0,8.0
-1516,Dhaka Tandoori Takeaway,5.0,4.0
-1517,Mother's Milk,5.0,4.0
-1518,Dhaba Lane,5.0,4.0
-1519,Madina Pizza,5.0,4.0
-1520,Ciocoyo,5.0,11.0
-1521,Maria's Fish & Kebabs,5.0,5.0
-1522,Quinto/Quarto,5.0,9.0
-1523,City Kebab House,5.0,4.0
-1524,Cafe Cascais,5.0,7.0
-1525,Traditional Pie & Mash,5.0,6.0
-1526,Highgate Cafe & Sandwich Bar,5.0,4.0
-1527,Kitchen8,5.0,8.0
-1528,Candb,5.0,4.0
-1529,Sukarah Lounge,5.0,4.0
-1530,Speck,5.0,4.0
-1531,Retreat Cafe,5.0,6.0
-1532,Hoxtons,5.0,4.0
-1533,Paradiso,5.0,4.0
-1534,Ugarit Restaurant,5.0,4.0
-1535,Darjeeling,5.0,4.0
-1536,Aurelia,5.0,6.0
-1537,Naples Delicacies,5.0,4.0
-1538,Pepe's Piri Piri,5.0,4.0
-1539,Bloondell Sports Bar,5.0,4.0
-1540,Venosi,5.0,4.0
-1541,Le Chiffre,5.0,4.0
-1542,Croquette & co,5.0,8.0
-1543,Greggs,5.0,4.0
-1544,Le Petit Village Ltd,5.0,6.0
-1545,Nasreddin Hoca Sofrasi,5.0,6.0
-1546,Cafe La Cigale,5.0,4.0
-1547,Karpasiana Restaurant,5.0,4.0
-1548,Stereo92,5.0,4.0
-1549,Best Quality Kebab,5.0,4.0
-1550,Hungry Horace,5.0,5.0
-1551,Dhan,5.0,6.0
-1552,The German Hot Dog Stall,5.0,8.0
-1553,De Mezka,5.0,32.0
-1554,Spandeli,5.0,5.0
-1555,L'Oasi Dei Sapori,5.0,7.0
-1556,Bistro,5.0,7.0
-1557,Esfihas Excellent,5.0,5.0
-1558,Bloqs Cafe,5.0,3.0
-1559,Leaf and Bean,5.0,4.0
-1560,Caspian Lounge,5.0,7.0
-1561,Sapori Pugliesi,5.0,6.0
-1562,Il Bianco city island,5.0,5.0
-1563,Everyday Barnes,5.0,5.0
-1564,"La Bottega, Pont Street",5.0,4.0
-1565,Don Luigi,5.0,4.0
-1566,Piada Bar UK Limited,5.0,5.0
-1567,The Roast of Sherwood,5.0,
-1568,StarBurger,5.0,6.0
-1569,Magus & the Fool,5.0,7.0
-1570,Hummus Lina,5.0,11.0
-1571,SushiQueen,5.0,5.0
-1572,Deja Vu Bakery,5.0,2.0
-1573,Agora Greek Bakery,5.0,2.0
-1574,Palmers Greenery: A Community Cafe for Broomfield Park,5.0,2.0
-1575,Wharf cafe,5.0,4.0
-1576,Bonjour Brioche,5.0,62.0
-1577,Urban Gourmet Cafe,5.0,5.0
-1578,Mangal Bhavan,5.0,
-1579,Prince Albert,5.0,2.0
-1580,Hacon Kitchen + Bar,5.0,3.0
-1581,Borneo Cafe and Bakery,5.0,
-1582,Carine’s Eatabout Kitchen,5.0,
-1583,Table 10 Steakhouse and Sea Food,5.0,
-1584,Kabylie Cafe,5.0,
-1585,Spice Villa,5.0,3.0
-1586,Ming's Garden,5.0,
-1587,Amigos Mediterranean Restaurant,5.0,2.0
-1588,Best Fried Chicken,5.0,
-1589,East Putney Tavern,5.0,
-1590,Butchies Shoreditch,5.0,
-1591,Clasico Argentino,5.0,2.0
+,ID,Restaurant_Name,Review_Rating,Number_of_Reviews
+0,0,R & H cafe gallery,5.0,146.0
+1,1,Osteria Romana,5.0,112.0
+2,2,The Oystermen Seafood Bar & Kitchen,5.0,255.0
+3,3,Liman Restaurant,5.0,945.0
+4,4,Holy Smoke,5.0,433.0
+5,6,The Clink Restaurant,5.0,588.0
+6,7,Bar 61 Restaurant,5.0,1730.0
+7,8,Taste Of Nawab,5.0,520.0
+8,9,Pizza Union Aldgate,5.0,369.0
+9,10,Core by Clare Smyth,5.0,99.0
+10,11,taNgia,5.0,539.0
+11,12,Gastronhome,5.0,572.0
+12,14,Zeret Kitchen,5.0,474.0
+13,15,The Golden Chippy,5.0,1015.0
+14,16,The Five Fields,5.0,1129.0
+15,18,Peninsula Restaurant,5.0,228.0
+16,19,Kibele Restaurant & Bar,5.0,273.0
+17,57,The Calabash of Culture,5.0,196.0
+18,103,Trattoria Raffaele,5.0,314.0
+19,126,Lorne Restaurant,5.0,97.0
+20,133,Daphne Restaurant,5.0,137.0
+21,164,Shahi Pakwaan,5.0,74.0
+22,227,Lentil,5.0,131.0
+23,267,EaTurkish,5.0,66.0
+24,420,Pizzetta Pizza,5.0,135.0
+25,446,London Shell Co,5.0,73.0
+26,475,Zala grill,5.0,65.0
+27,500,Rock Star Sushi Bar,5.0,559.0
+28,525,The Lounge Cafe,5.0,73.0
+29,580,Saka Maka cafe,5.0,69.0
+30,593,Pizza Union Dalston,5.0,56.0
+31,670,Tomo Pizzeria & Restaurant,5.0,150.0
+32,713,Knife Restaurant,5.0,77.0
+33,714,L'Elysee Artisan Cafe and Patisserie,5.0,105.0
+34,756,Sunday Champagne Brunch at The Landmark London,5.0,200.0
+35,761,Satan's Whiskers,5.0,103.0
+36,806,Cafe Che-Men,5.0,95.0
+37,810,Oi Vita Pizzeria,5.0,58.0
+38,821,Adore Remo,5.0,50.0
+39,913,Magic Falafel,5.0,55.0
+40,935,Alexandrie Restaurant,5.0,141.0
+41,939,Restaurant Flat Three,5.0,121.0
+42,943,Fast Break,5.0,62.0
+43,948,KataKata,5.0,133.0
+44,987,Sorrento In,5.0,68.0
+45,997,Il Primo Ristorante,5.0,76.0
+46,1016,Con Gusto,5.0,62.0
+47,1023,140 Portobello,5.0,33.0
+48,1047,Sushi Tetsu,5.0,127.0
+49,1078,Cafe Van Gogh,5.0,56.0
+50,1085,Olde Goa,5.0,189.0
+51,1153,Pham house,5.0,55.0
+52,1186,Rullo's Pizzeria,5.0,88.0
+53,1190,Volare,5.0,56.0
+54,1229,Wassouf Lounge,5.0,130.0
+55,1232,Made in South Pizzeria,5.0,308.0
+56,1252,Manuel's Restaurant and Bar,5.0,192.0
+57,1275,Frog By Adam Handling,5.0,68.0
+58,1303,Alcedo Bistro & Bar,5.0,66.0
+59,1304,Franzina Trattoria,5.0,53.0
+60,1310,Meraki Grill,5.0,43.0
+61,1315,Viet Baguette Ltd,5.0,97.0
+62,1348,PickyWops,5.0,45.0
+63,1353,Casa Tua Camden,5.0,285.0
+64,1357,Mazaya,5.0,36.0
+65,1383,Fig Tree,5.0,84.0
+66,1402,Sidi Bou - London,5.0,38.0
+67,1481,Lambo Bar And Restaurant,5.0,59.0
+68,1499,Les Douceurs de la Tentation,5.0,92.0
+69,1510,L'Oculto,5.0,67.0
+70,1539,Home SW15,5.0,38.0
+71,1542,Fine Foods - Locanda Del Melo,5.0,101.0
+72,1550,Bonoo,5.0,430.0
+73,1626,129HRD,5.0,33.0
+74,1628,Neo Bistro,5.0,31.0
+75,1663,Hasu,5.0,67.0
+76,1786,Mr Falafel,5.0,95.0
+77,1795,Apollo Restaurant,5.0,55.0
+78,1803,Killer Tomato,5.0,25.0
+79,1819,Suvlaki Shoreditch,5.0,26.0
+80,1874,Spanish Particular,5.0,32.0
+81,1901,Alla Salute,5.0,44.0
+82,1990,Olive Cafe,5.0,62.0
+83,1995,Kolam South Indian Restaurant,5.0,87.0
+84,2001,Pizza X Drink,5.0,30.0
+85,2005,Saponara,5.0,83.0
+86,2012,Cesni Authentic Turkish Restaurant,5.0,29.0
+87,2017,Arment WJ & Son,5.0,96.0
+88,2032,Pickled Fred,5.0,26.0
+89,2051,Tanakatsu,5.0,28.0
+90,2054,Bowling Bird,5.0,24.0
+91,2065,The Spice Indian Restaurant,5.0,81.0
+92,2072,Maureens Pie & Mash,5.0,59.0
+93,2080,The Grove,5.0,51.0
+94,2081,Massawa,5.0,48.0
+95,2103,Festa Sul Prato,5.0,36.0
+96,2160,Jhenn of the Vegan Ronin,5.0,29.0
+97,2169,Gulab tandoori n1,5.0,27.0
+98,2181,St James Bar,5.0,68.0
+99,2191,Cafe de Provence,5.0,37.0
+100,2218,Lattakia,5.0,48.0
+101,2230,JIN SUSHI,5.0,63.0
+102,2240,Nivens Fine Foods,5.0,66.0
+103,2262,Tongue & Brisket,5.0,31.0
+104,2264,The Best Turkish Kebab,5.0,200.0
+105,2307,"Tommi's Burger Joint, Berwick St, Soho",5.0,44.0
+106,2332,VBurger Camden,5.0,23.0
+107,2340,E-Four Indian Fusion,5.0,100.0
+108,2358,Yum Sa,5.0,21.0
+109,2373,Slow Richie's,5.0,38.0
+110,2378,Vegan Yes,5.0,19.0
+111,2397,The English Grill,5.0,24.0
+112,2420,Victory Mansion,5.0,49.0
+113,2451,The Curry Room,5.0,27.0
+114,2510,Trattoria Terra,5.0,72.0
+115,2522,Totide,5.0,85.0
+116,2529,Sikulo Italian Cafe & Restaurant,5.0,23.0
+117,2538,CookDaily,5.0,23.0
+118,2547,Kouzina Express,5.0,42.0
+119,2587,The Continental Pantry,5.0,21.0
+120,2592,Pizza Pickup,5.0,21.0
+121,2596,Paul Rothe & Son,5.0,52.0
+122,2646,Room 43 Bar & Kitchen,5.0,25.0
+123,2664,Asmak albasha,5.0,24.0
+124,2681,The Italians,5.0,30.0
+125,2682,Nanashi,5.0,20.0
+126,2716,Le Tran Cafe,5.0,26.0
+127,2735,Panzerotto Blues,5.0,36.0
+128,2760,Pizzeria Pinocchio,5.0,53.0
+129,2766,Simply Tasty Cafe&Kitchen,5.0,38.0
+130,2769,Yucca,5.0,20.0
+131,2794,India Garden,5.0,27.0
+132,2813,New City Chinese Restaurant,5.0,49.0
+133,2825,Farina Pizzeria,5.0,16.0
+134,2826,L'oro di Napoli,5.0,77.0
+135,2833,Mamma Dough - Peckham,5.0,33.0
+136,2834,PitStop,5.0,55.0
+137,2839,The Walrus Room,5.0,36.0
+138,2841,Bassoon Bar,5.0,85.0
+139,2911,Pizzeria Di Camden,5.0,27.0
+140,2914,Vanilla,5.0,43.0
+141,2935,Malaysian Deli,5.0,52.0
+142,2943,The Fusion by Kai,5.0,47.0
+143,2947,Chick-King,5.0,42.0
+144,2948,Nepal Authentic Dining,5.0,48.0
+145,2970,Carpe Diem,5.0,56.0
+146,2982,Le Merlin,5.0,25.0
+147,2985,Julia Domna Cafe,5.0,16.0
+148,2997,Sumika,5.0,46.0
+149,3010,Aleion,5.0,16.0
+150,3055,Smoke & Salt,5.0,25.0
+151,3060,Norris + Knight,5.0,32.0
+152,3061,Cafe 12,5.0,53.0
+153,3066,Stagolee's Hot Chicken & Liquor Joint,5.0,21.0
+154,3073,Hawraman Cafe Bar,5.0,19.0
+155,3085,Bueno Argentinian Eatery & Steakhouse,5.0,18.0
+156,3099,Hiba Street,5.0,22.0
+157,3124,Qasioun Restaurant,5.0,48.0
+158,3130,Tummy Kom4ort Nigerian Restaurant (African Cuisine),5.0,21.0
+159,3131,German Kraft Beer,5.0,16.0
+160,3176,All Inn One,5.0,40.0
+161,3181,The Three Lions,5.0,32.0
+162,3184,Stables Cafe,5.0,20.0
+163,3185,Memsaab Indian Cuisine,5.0,17.0
+164,3193,Peers' Dining Room,5.0,34.0
+165,3196,Nippon Izakaya,5.0,19.0
+166,3207,Miki's Paradise,5.0,25.0
+167,3242,Menya Ramen,5.0,16.0
+168,3248,Cafe Pronto,5.0,47.0
+169,3250,Miod Malina,5.0,28.0
+170,3260,Tonis Amalfi,5.0,16.0
+171,3266,Wild Thyme,5.0,17.0
+172,3321,Baristas Fusion Cafe,5.0,61.0
+173,3362,The Greenhouse Deptford,5.0,29.0
+174,3394,Cravings La Carreta,5.0,24.0
+175,3399,Tiramisu Cafe,5.0,33.0
+176,3412,Delizie D'italia,5.0,35.0
+177,3417,Camden Pizza Co,5.0,16.0
+178,3425,Cafe Green,5.0,38.0
+179,3498,Bariba' Italian Deli,5.0,43.0
+180,3514,Bar 48,5.0,31.0
+181,3527,Uno Organic and Natural Food,5.0,16.0
+182,3528,Falafel Feast,5.0,14.0
+183,3529,Curtis Caribbean Grill and Specialty Cakes,5.0,17.0
+184,3532,La Cafeteria,5.0,50.0
+185,3544,Zena,5.0,42.0
+186,3611,Bruce Burgers,5.0,13.0
+187,3632,Rumi Restaurant,5.0,30.0
+188,3645,Paradise Parlour,5.0,15.0
+189,3662,Sim's Steak House,5.0,50.0
+190,3667,Nonna Bionda,5.0,16.0
+191,3668,Sabor,5.0,50.0
+192,3670,Clipper Bar,5.0,14.0
+193,3680,Koi Ramen Bar,5.0,18.0
+194,3712,Enjoy Lasagna,5.0,21.0
+195,3744,The Original Smokehouse,5.0,14.0
+196,3759,The Cinnamon,5.0,15.0
+197,3774,PerBacco!,5.0,12.0
+198,3809,Taco Queen,5.0,27.0
+199,3811,La Violetta,5.0,28.0
+200,3813,Hi-Ki Robata Grill & Sushi Bar,5.0,19.0
+201,3829,Bbq Grill,5.0,35.0
+202,3870,Omnino St Paul's,5.0,12.0
+203,3871,Bufala Di Londra,5.0,12.0
+204,3872,Panorama,5.0,12.0
+205,3926,Simya Korean Restaurant,5.0,42.0
+206,3952,Jimmy and the Bee,5.0,18.0
+207,3953,Il Cavaliere,5.0,32.0
+208,3961,BurgerUK,5.0,16.0
+209,3965,Alcazar Lounge,5.0,22.0
+210,3971,Nickel,5.0,24.0
+211,3979,The Patate,5.0,21.0
+212,3988,Thai Cafe Restaurant,5.0,33.0
+213,3994,The Feel Good Cafe,5.0,24.0
+214,3997,Lost Boys Pizza,5.0,12.0
+215,3998,Infusion Asian Fusion Restaurant & Bar,5.0,13.0
+216,4011,Sandwich Shop,5.0,15.0
+217,4047,Hullabaloo,5.0,14.0
+218,4049,HealthyWealthy,5.0,26.0
+219,4061,Pizza Euforia,5.0,62.0
+220,4078,Indian Accent,5.0,11.0
+221,4110,Koi Ramen Bar,5.0,14.0
+222,4118,Pho Ta,5.0,20.0
+223,4129,Wandle Pirates,5.0,42.0
+224,4135,Cafe Paolo,5.0,20.0
+225,4152,Little Brazil Bar Restaurant Ltd,5.0,16.0
+226,4155,Catalyst,5.0,14.0
+227,4178,Kafeteryam Sandwich Bar,5.0,34.0
+228,4192,Fino Bar Ristorante,5.0,13.0
+229,4207,The Ship of Adventures,5.0,49.0
+230,4212,Vicki's,5.0,36.0
+231,4219,Brewer's Bar,5.0,19.0
+232,4220,Sista Barista,5.0,24.0
+233,4243,Midori Sushi,5.0,36.0
+234,4280,The Listing,5.0,12.0
+235,4307,Asoo's,5.0,25.0
+236,4344,The Brompton Cafe & Bookshop,5.0,25.0
+237,4372,Bel & Nev,5.0,19.0
+238,4373,Mica cafe,5.0,26.0
+239,4397,Mari Delicatessen,5.0,12.0
+240,4406,Quilombero,5.0,19.0
+241,4407,Andu Cafe,5.0,15.0
+242,4419,Vicolo Romano,5.0,14.0
+243,4441,Cheddar Deli,5.0,16.0
+244,4450,The Green Room Bar & Eatery,5.0,16.0
+245,4451,Paladar,5.0,13.0
+246,4455,The Garden,5.0,38.0
+247,4461,Ranya Restaurant,5.0,11.0
+248,4476,Apulia Cafe Ltd,5.0,14.0
+249,4487,Highams Lounge,5.0,18.0
+250,4497,Green House Restaurant,5.0,35.0
+251,4509,The Chelsea Cellar,5.0,51.0
+252,4559,MENOO ECLECTIC FOODS,5.0,24.0
+253,4599,Sandwich Street Kitchen,5.0,13.0
+254,4602,Smaka,5.0,42.0
+255,4625,Tea Darling,5.0,19.0
+256,4670,Paglia e Fieno,5.0,19.0
+257,4673,Pacific Social Club,5.0,21.0
+258,4677,Chicago grill,5.0,12.0
+259,4695,Monsoon,5.0,25.0
+260,4708,Marcel & Sons,5.0,16.0
+261,4709,Omar's Place,5.0,13.0
+262,4710,Spier's,5.0,10.0
+263,4711,Lechevalier Wine Bar/Shop,5.0,10.0
+264,4712,Truly Splendid vintage tearoom,5.0,14.0
+265,4713,Veeno London - St Paul's,5.0,8.0
+266,4714,Morisco Paella & Fish Takeaway,5.0,14.0
+267,4715,B'acino,5.0,11.0
+268,4728,Castle's,5.0,19.0
+269,4780,Mamma Mia Pizzeria,5.0,30.0
+270,4802,Elite Fish Bar,5.0,30.0
+271,4815,Shalamar Kebab House,5.0,15.0
+272,4894,Piadina Genuina,5.0,14.0
+273,4909,Roasted Bean,5.0,11.0
+274,4923,Simon Drake's House of Magic,5.0,45.0
+275,4927,Via Emilia by FOOD ROOTS,5.0,10.0
+276,4929,Shoop Soup,5.0,12.0
+277,4943,Benny's,5.0,22.0
+278,4944,Olive,5.0,44.0
+279,4949,B J's Pie And Mash Shop,5.0,11.0
+280,4966,Oven East,5.0,47.0
+281,4970,The Blue Room,5.0,13.0
+282,4971,Bento Bab,5.0,14.0
+283,4972,The Racketeer,5.0,9.0
+284,4973,Dutch Courage Bar,5.0,19.0
+285,4974,Venturi's Table Corporate Cookery Centre,5.0,16.0
+286,4980,Volare Restaurant,5.0,11.0
+287,4991,Melabes,5.0,8.0
+288,5009,Salumeria Dino,5.0,21.0
+289,5011,The Cuckoo N1,5.0,15.0
+290,5028,Hanswurst,5.0,14.0
+291,5042,Sams Cafe,5.0,21.0
+292,5078,Baalbakis Restaurant,5.0,13.0
+293,5096,Szechuan House,5.0,17.0
+294,5111,Street Eats,5.0,37.0
+295,5152,La Bottega di Anna,5.0,16.0
+296,5169,Essence Cuisine,5.0,10.0
+297,5177,Etles Uyghur Restaurant,5.0,11.0
+298,5183,Moka East Cafe at the View Tube,5.0,28.0
+299,5210,Freak Scene,5.0,9.0
+300,5281,Horse Shoe Cafe,5.0,26.0
+301,5282,Darwin,5.0,8.0
+302,5286,Seth's Spice Hut,5.0,11.0
+303,5287,Nyokee,5.0,10.0
+304,5288,Ksara House,5.0,8.0
+305,5290,Passo Restaurant,5.0,9.0
+306,5291,Dukan 41,5.0,9.0
+307,5315,Emek Kebab,5.0,15.0
+308,5321,Food Room,5.0,14.0
+309,5329,London Beer House,5.0,14.0
+310,5337,The Frenchie,5.0,17.0
+311,5353,Yada’s Kurdish Restaurant,5.0,12.0
+312,5356,Tastes of the Nile,5.0,31.0
+313,5359,Melody cafe,5.0,14.0
+314,5368,Nelson's Restaurant,5.0,23.0
+315,5384,Wrap City Kebab Halal,5.0,9.0
+316,5389,Little Bird Gin,5.0,20.0
+317,5418,Aqua Deli,5.0,17.0
+318,5426,Salt & Vinegar,5.0,14.0
+319,5456,London Velo,5.0,23.0
+320,5489,Pizzeria Pomodoretto,5.0,10.0
+321,5492,James Cochran N1,5.0,9.0
+322,5554,Caffe Casbah,5.0,13.0
+323,5568,Panda's Kitchen,5.0,32.0
+324,5611,Maydanoz,5.0,8.0
+325,5613,Black Olive Cooks,5.0,26.0
+326,5644,The Arena Club and Sports Bar,5.0,28.0
+327,5665,Jin-Da,5.0,9.0
+328,5687,Mediterraneo Lebanese & Italian Cuisine,5.0,6.0
+329,5688,DeliBeira,5.0,13.0
+330,5689,The Craftsman Cafe,5.0,9.0
+331,5690,The Sultan,5.0,11.0
+332,5691,Black Bream,5.0,6.0
+333,5692,Carmel by the Green,5.0,7.0
+334,5693,222 Kitchen,5.0,9.0
+335,5694,Coco's cafe,5.0,8.0
+336,5695,Singtong Burger House,5.0,9.0
+337,5696,Cremoloso Gelato,5.0,7.0
+338,5697,Chicco d'oro,5.0,11.0
+339,5716,Cafe de Nata,5.0,7.0
+340,5727,The Antwerp Arms,5.0,11.0
+341,5746,Cooks Pie and Mash Shop,5.0,13.0
+342,5752,Bokit la,5.0,17.0
+343,5766,Uyghur Restaurant,5.0,6.0
+344,5767,MnM Gelato,5.0,8.0
+345,5772,Skip Garden and Kitchen,5.0,15.0
+346,5792,Colliers Wood Tandoori,5.0,19.0
+347,5819,Tea2you,5.0,21.0
+348,5858,Zakuski,5.0,20.0
+349,5880,Cafe Rosi,5.0,18.0
+350,5881,Light Bite,5.0,16.0
+351,5895,Billy Smokes BBQ Howling Hops Location,5.0,10.0
+352,5902,The Dartmouth Arms,5.0,9.0
+353,5904,Hellenic Bakery,5.0,10.0
+354,5905,Brindisa Shop,5.0,9.0
+355,5909,Kuzu Shish,5.0,16.0
+356,5922,Sumi-Ka Japanese Restaurant,5.0,11.0
+357,5925,Camilya of Mensa,5.0,9.0
+358,5933,Kapadokya Restaurant,5.0,26.0
+359,5939,Dark Habit,5.0,8.0
+360,5941,Amalfi caffeUK,5.0,23.0
+361,5942,Harris HT,5.0,27.0
+362,5949,The Larder,5.0,8.0
+363,5952,Four Degree,5.0,16.0
+364,5953,Pret A Manger,5.0,11.0
+365,5980,Vitale - Italian Cuisine,5.0,13.0
+366,5981,Railway Tavern,5.0,12.0
+367,5987,Anima Sarda Italian Restaurant,5.0,29.0
+368,5988,Gozleme House,5.0,9.0
+369,6055,Spiritual Caipirinha Bar,5.0,23.0
+370,6057,Delhi Bites,5.0,11.0
+371,6067,Manor Cafe,5.0,11.0
+372,6084,Alex's Place | Kebab And Steak House,5.0,22.0
+373,6091,The Red Lion N16,5.0,9.0
+374,6096,Charcoal Restaurant,5.0,8.0
+375,6108,Coqfighter,5.0,7.0
+376,6123,Art Deli,5.0,19.0
+377,6169,Paul's Plaice,5.0,21.0
+378,6188,3 Points Cafe,5.0,16.0
+379,6199,Chilli Tuk Tuk,5.0,9.0
+380,6200,Sara & Co Limited,5.0,9.0
+381,6201,La pizzeria tartufo,5.0,6.0
+382,6202,SushiHeads,5.0,12.0
+383,6203,Rascals,5.0,5.0
+384,6204,Lazzat Wembley,5.0,8.0
+385,6205,Papaya,5.0,9.0
+386,6206,O Gourmet Libanais,5.0,6.0
+387,6207,Park's Edge Bar and Kitchen,5.0,6.0
+388,6208,Zabardast,5.0,7.0
+389,6209,Thenga Cafe,5.0,12.0
+390,6210,DOGS Mika's Kitchen & Bar,5.0,10.0
+391,6211,Pequeno Restaurant & Wine Bar,5.0,8.0
+392,6212,Havana's Caffe,5.0,8.0
+393,6213,Casa Maria,5.0,6.0
+394,6214,Fish & Chic,5.0,5.0
+395,6215,Brooksby's Walk E9,5.0,11.0
+396,6216,Hoxton Cabin,5.0,6.0
+397,6217,Sakura Sushi & Buns,5.0,9.0
+398,6219,piggies,5.0,15.0
+399,6243,Stillwater Cocktail Bar & Restaurant,5.0,8.0
+400,6244,Gino's Cappuccino Bar,5.0,17.0
+401,6315,The Lounge Cafe,5.0,20.0
+402,6333,Martin Cafe,5.0,12.0
+403,6349,Spier's Salads,5.0,13.0
+404,6387,Perini & Perini,5.0,8.0
+405,6397,Lamb's Cafe,5.0,16.0
+406,6401,P Franco,5.0,5.0
+407,6402,Riviera Bistro & Bar,5.0,18.0
+408,6403,Tazze Grill,5.0,6.0
+409,6413,Madeira Star,5.0,14.0
+410,6420,Marino Fish Bar,5.0,16.0
+411,6461,Regis Snack Bar,5.0,15.0
+412,6485,Kitchen Table,5.0,16.0
+413,6487,O Bombeiro Restaurante,5.0,11.0
+414,6495,Portferford,5.0,14.0
+415,6496,Wimpy,5.0,12.0
+416,6529,Pasta Sereni,5.0,17.0
+417,6530,Red Yellow Blue,5.0,8.0
+418,6535,Pintadera Cafe,5.0,11.0
+419,6553,Bernsteins,5.0,7.0
+420,6557,Today Bread,5.0,6.0
+421,6572,Umut Ocakbasi,5.0,11.0
+422,6574,Wari Bashi,5.0,17.0
+423,6590,Kisetsu,5.0,9.0
+424,6601,Lena's Bar & Kitchen,5.0,48.0
+425,6604,Lost & Found Bar,5.0,10.0
+426,6610,Evelina's Patisserie,5.0,6.0
+427,6632,Silvia of the Aesthetic Plate,5.0,11.0
+428,6638,Di Carlo's Pizza & Pasta,5.0,10.0
+429,6645,Machine,5.0,12.0
+430,6650,Sushi and More,5.0,8.0
+431,6652,Chequers Sandwich Bar,5.0,9.0
+432,6656,L’angolo Bianco,5.0,9.0
+433,6659,Kennedys Pizza & Pasta,5.0,16.0
+434,6665,FooMum,5.0,7.0
+435,6666,The Wagon @ cave,5.0,18.0
+436,6697,Su Restaturant,5.0,16.0
+437,6699,Siham Lounge Bar,5.0,9.0
+438,6700,The Aylmer Pantry,5.0,14.0
+439,6709,Happy Garden,5.0,8.0
+440,6724,The Greenwich Pensioner Bar & Restaurant,5.0,5.0
+441,6744,Simply Breakfast,5.0,10.0
+442,6788,Pranzos,5.0,16.0
+443,6792,Express Fish Bar,5.0,8.0
+444,6831,Nemo's Fish and Chips,5.0,13.0
+445,6835,The Liquor Works,5.0,9.0
+446,6850,The Carvery - Mark Mason Hall - 86 St. James,5.0,7.0
+447,6851,Sushi Haven,5.0,7.0
+448,6852,Babel Cafe & Restaurant,5.0,5.0
+449,6853,Rox Burger - Spitalfields,5.0,4.0
+450,6854,Chris's Fish Bar,5.0,8.0
+451,6855,Tarantella Ristorante Pizzeria,5.0,4.0
+452,6856,Mono,5.0,5.0
+453,6857,Passione Vino,5.0,7.0
+454,6858,Hoxton Fish House,5.0,6.0
+455,6859,Fish Inn at the Old Bank,5.0,10.0
+456,6860,April's Cafe,5.0,5.0
+457,6861,Tibb's Frankie,5.0,5.0
+458,6862,The Vurger Co,5.0,7.0
+459,6863,Khon Thai,5.0,6.0
+460,6864,Host.Coffee,5.0,5.0
+461,6865,Ruby Rose,5.0,6.0
+462,6866,The Neat Cafe,5.0,6.0
+463,6867,Saucer & Spritz,5.0,5.0
+464,6868,Rose's Cafe,5.0,5.0
+465,6869,Abbotshill,5.0,4.0
+466,6870,Big V,5.0,6.0
+467,6871,Mae + Harvey,5.0,5.0
+468,6872,Holy Shot,5.0,7.0
+469,6873,Food in Fabula,5.0,10.0
+470,6874,Number 6 Coffee,5.0,5.0
+471,6875,Tarbush Restaurant,5.0,4.0
+472,6923,Foodinthemiddle,5.0,19.0
+473,6929,Mo Pho Viet Cafe,5.0,12.0
+474,6957,the Balham Kitchen,5.0,15.0
+475,6987,Giuliano Putney,5.0,8.0
+476,6993,Cafe Mandalay,5.0,13.0
+477,7028,E-Mono,5.0,19.0
+478,7044,Whole Meal Cafe,5.0,9.0
+479,7052,Mighty Bite,5.0,8.0
+480,7082,Lilika's Treats,5.0,10.0
+481,7088,Bonners Fish Bar,5.0,13.0
+482,7089,Al Farah Cafe,5.0,13.0
+483,7114,Earls Sandwiches,5.0,8.0
+484,7119,best london kebab,5.0,10.0
+485,7126,The Hangout,5.0,7.0
+486,7146,Tereza Joanne,5.0,7.0
+487,7152,Rokkon,5.0,7.0
+488,7156,Mosaic Grill,5.0,7.0
+489,7190,Burgers on Broadway,5.0,8.0
+490,7195,Basils,5.0,7.0
+491,7210,Matulka,5.0,14.0
+492,7213,The Friends Cafe,5.0,10.0
+493,7231,Fish and Chips and Kebabs,5.0,6.0
+494,7239,Spajz Meatball and Burger Shop,5.0,6.0
+495,7273,Lucky Chip,5.0,6.0
+496,7281,Ocean Fish Bar,5.0,6.0
+497,7282,Boca - Latin Bites,5.0,4.0
+498,7283,Goodies Foodies Bistro,5.0,3.0
+499,7284,Michael Van Clarke,5.0,5.0
+500,7285,Magara Restaurant,5.0,4.0
+501,7286,Park View Cafe,5.0,6.0
+502,7287,Core Collective - Kitchen,5.0,5.0
+503,7288,dragon palace Chinese takeaway Chingford,5.0,6.0
+504,7289,Golden Flakes Bakery,5.0,6.0
+505,7290,The Little Cat Cafe,5.0,6.0
+506,7291,Happy Sushi,5.0,5.0
+507,7292,Press,5.0,4.0
+508,7293,Fish Bar,5.0,7.0
+509,7294,Nandines,5.0,4.0
+510,7295,Aromma,5.0,6.0
+511,7296,Gusto And Relish,5.0,7.0
+512,7297,Deli Nene,5.0,5.0
+513,7298,Sara of Pomodoro E Basilico,5.0,6.0
+514,7299,Chesham Arms,5.0,3.0
+515,7300,The Lamb,5.0,7.0
+516,7301,Stephen Fries Burger Merchant,5.0,6.0
+517,7302,La Piazza,5.0,4.0
+518,7303,Food.it,5.0,4.0
+519,7304,Amal Restaurant,5.0,4.0
+520,7305,Rukhsana,5.0,10.0
+521,7306,Five Four Ate,5.0,5.0
+522,7307,Diddy's,5.0,4.0
+523,7308,Golden Carp fish and chips,5.0,10.0
+524,7309,Richard's Kitchen,5.0,4.0
+525,7310,Cheese at Leadenhall,5.0,3.0
+526,7311,Panizza,5.0,4.0
+527,7312,Aladdins,5.0,4.0
+528,7313,"Zabardast, the Indian Wrap Co.",5.0,4.0
+529,7314,Tche Tapas,5.0,4.0
+530,7315,Sea Garden & Grill,5.0,3.0
+531,7316,Benz Burgers,5.0,4.0
+532,7317,Attendant Clerkenwell,5.0,4.0
+533,7318,The Grove,5.0,5.0
+534,7319,Libertea,5.0,6.0
+535,7320,Tang's Takeaway,5.0,3.0
+536,7321,Luigi's Sandwich Bar,5.0,4.0
+537,7322,The Angel Of Bow,5.0,3.0
+538,7323,The Indian Dinner Box,5.0,4.0
+539,7324,Gardenhouse Restaurant,5.0,3.0
+540,7326,Liqui Liqui,5.0,3.0
+541,7327,Good Samaritan,5.0,3.0
+542,7328,Mister Lasagna Victoria,5.0,3.0
+543,7329,Eastenders Pie & Mash,5.0,6.0
+544,7331,Kebab Hut,5.0,11.0
+545,7337,Ko Gu Ryo,5.0,38.0
+546,7362,pedro's,5.0,11.0
+547,7369,Le panier a brioche,5.0,13.0
+548,7370,McDonald's,5.0,5.0
+549,7374,Billingsgate Cafe,5.0,7.0
+550,7375,Melange Chocolate,5.0,8.0
+551,7380,Coolangatta Cafe UK,5.0,5.0
+552,7385,The Bloody Oyster,5.0,12.0
+553,7408,St. Anna,5.0,5.0
+554,7438,Tufnell Park Kebabs,5.0,8.0
+555,7439,Nathan Pie Shop,5.0,12.0
+556,7453,Jade's Jerk,5.0,7.0
+557,7458,Pizzeria Volare,5.0,6.0
+558,7460,Sea Bream Fish Bar,5.0,10.0
+559,7467,Vera's Kitchen,5.0,5.0
+560,7475,B Grill,5.0,5.0
+561,7476,Wild Heart,5.0,5.0
+562,7492,Grove Park Deli,5.0,12.0
+563,7499,Curry Hut,5.0,8.0
+564,7504,The Bantu Chef's Kitchen,5.0,9.0
+565,7507,Al's Cafe,5.0,6.0
+566,7509,Dee Dee K's Snack Bar,5.0,6.0
+567,7512,Diamond Kebab House,5.0,7.0
+568,7517,Acton Cafe,5.0,14.0
+569,7520,Bar 45,5.0,9.0
+570,7521,Bavo,5.0,4.0
+571,7529,Royal Dragon,5.0,9.0
+572,7541,Sunnisa Thai Restaurant,5.0,4.0
+573,7542,Rustichino,5.0,5.0
+574,7544,Earls Sandwiches,5.0,7.0
+575,7555,Bleecker Bloomberg,5.0,4.0
+576,7589,The Athenian,5.0,4.0
+577,7591,The Old Time Music Hall,5.0,9.0
+578,7611,Fishy Business,5.0,13.0
+579,7625,Hoa Phuong,5.0,14.0
+580,7635,1n1 Fashion n Pizza,5.0,12.0
+581,7637,Recharge,5.0,6.0
+582,7651,The Little Sofia,5.0,11.0
+583,7669,Mes Amis Cafe,5.0,6.0
+584,7723,Grace Belgravia,5.0,7.0
+585,7729,Holmesbake,5.0,8.0
+586,7754,Century,5.0,5.0
+587,7760,Shot,5.0,6.0
+588,7762,Bell Boi,5.0,8.0
+589,7771,Balti Lounge,5.0,15.0
+590,7774,La Mediterranea,5.0,5.0
+591,7781,Cafe Jasmine,5.0,6.0
+592,7784,Hometown Rolls & Baguettes,5.0,5.0
+593,7789,Dacha Russian Shop,5.0,5.0
+594,7802,City Sports Pub and Grill,5.0,5.0
+595,7809,Wrights Bar,5.0,5.0
+596,7823,Micky's Chippy,5.0,12.0
+597,7837,Tex Bites,5.0,8.0
+598,7844,George's Fisheries,5.0,7.0
+599,7875,The Best Steak And Cocktail Restaurant,5.0,8.0
+600,7879,Cool Breeze,5.0,5.0
+601,7901,Aveqia London,5.0,7.0
+602,7906,Amici Coffee Deli,5.0,9.0
+603,7920,Instablue cafe & diner,5.0,6.0
+604,7928,Kafe 1788,5.0,4.0
+605,7932,Primi Piatti,5.0,5.0
+606,7936,White Rabbit Cafe,5.0,5.0
+607,7963,Picanha Brazilian Steakhouse,5.0,4.0
+608,7964,Requinte Bistro,5.0,4.0
+609,7967,Sushi Japanese,5.0,5.0
+610,7970,Serbet Restaurant,5.0,4.0
+611,8004,Queens Head,5.0,10.0
+612,8023,Cafe Talia,5.0,5.0
+613,8028,The Food Yard,5.0,4.0
+614,8029,Manzanos Latin American Bistro,5.0,25.0
+615,8064,Ambience Express 2,5.0,17.0
+616,8083,Pasta Boys,5.0,13.0
+617,8088,Brooklyn Diner,5.0,8.0
+618,8091,Frankie Goes to Bollywood,5.0,4.0
+619,8099,Leon,5.0,4.0
+620,8105,Asador Argentine Steaks and Burger,5.0,2.0
+621,8106,Wasoukan Europe,5.0,4.0
+622,8107,Mega Bites,5.0,4.0
+623,8108,Vittorio's Deli,5.0,2.0
+624,8109,Curry Shack,5.0,8.0
+625,8110,Zanelli's Sandwich Bar,5.0,5.0
+626,8111,Mr Cee's Caribbean Cafe,5.0,4.0
+627,8112,Merchant House of Fleet Street,5.0,3.0
+628,8113,Honi Poke,5.0,3.0
+629,8114,Old Street Records,5.0,2.0
+630,8115,Cutting Chai,5.0,3.0
+631,8116,A y A,5.0,7.0
+632,8117,Wrapchic,5.0,2.0
+633,8118,Blue Tree Kitchen,5.0,3.0
+634,8119,Chaconia,5.0,8.0
+635,8120,Diners Delight,5.0,3.0
+636,8121,Schnitzellondon,5.0,3.0
+637,8122,H's Cafe,5.0,3.0
+638,8123,Ground Control,5.0,5.0
+639,8124,The Buffalo,5.0,4.0
+640,8125,Cheezelo,5.0,3.0
+641,8126,Daddy Buns,5.0,2.0
+642,8127,Emily's Kitchen,5.0,6.0
+643,8128,Cafe Mosaic,5.0,2.0
+644,8129,Kimura,5.0,3.0
+645,8130,School House Cafe,5.0,3.0
+646,8131,Change Please,5.0,3.0
+647,8132,Ivy's,5.0,4.0
+648,8133,Subtitles Cafe,5.0,3.0
+649,8134,Zucla Festival of Food,5.0,3.0
+650,8135,Patisserie Valerie,5.0,2.0
+651,8136,The Village Deli,5.0,3.0
+652,8137,The Village Tandoori,5.0,4.0
+653,8138,Mr. Gingham,5.0,7.0
+654,8139,The Poppy Pantry,5.0,2.0
+655,8140,Merci Marie,5.0,8.0
+656,8141,The Birkbeck Tavern,5.0,7.0
+657,8142,Docklands Fish Bar,5.0,2.0
+658,8143,The Kitchen SE12,5.0,4.0
+659,8144,Flank,5.0,2.0
+660,8145,Grabthai,5.0,2.0
+661,8146,Calverts Deluxe Coffee,5.0,4.0
+662,8147,Laoma,5.0,2.0
+663,8148,The Athenian Greek Street Food,5.0,3.0
+664,8149,House of Spicy,5.0,4.0
+665,8150,Cafe Mimosa,5.0,2.0
+666,8151,La Vera Pizza,5.0,3.0
+667,8152,The Lunch Box,5.0,2.0
+668,8153,Mosaic Cafe,5.0,2.0
+669,8154,Ken's Cafe,5.0,2.0
+670,8155,Passos Chicken Canteen,5.0,2.0
+671,8156,Teas,5.0,2.0
+672,8157,Fakhreldine,5.0,6.0
+673,8158,Peking Garden Chinese Food Takeaway,5.0,3.0
+674,8159,Ground5 Shisha Lounge,5.0,4.0
+675,8160,Huqqa Lounge,5.0,2.0
+676,8161,Rizo's,5.0,2.0
+677,8162,Hawker Street,5.0,2.0
+678,8163,The Cake Parlour,5.0,5.0
+679,8164,Classic Indian Cuisine,5.0,7.0
+680,8165,Cafe Heath,5.0,4.0
+681,8166,Milletti's Cafe,5.0,3.0
+682,8167,Messapica,5.0,2.0
+683,8168,Debenhams,5.0,3.0
+684,8169,Poncho 8,5.0,7.0
+685,8170,ZebraX,5.0,4.0
+686,8171,Golden Baklava,5.0,4.0
+687,8172,Madiera Star Cafe,5.0,4.0
+688,8173,The London Cocktail Club,5.0,2.0
+689,8174,Meskerem Restaurant,5.0,5.0
+690,8175,King Rooster,5.0,2.0
+691,8176,Battenberg Badger,5.0,2.0
+692,8177,Ginger Jules,5.0,4.0
+693,8178,Cafe Dee,5.0,8.0
+694,8179,Salt & Pepper,5.0,4.0
+695,8180,Waterfront London,5.0,2.0
+696,8181,Club Zetter,5.0,2.0
+697,8182,Mem's Corner Cafe,5.0,3.0
+698,8183,Aux Merveilleux de Fred Clapham,5.0,4.0
+699,8184,Everest Spice,5.0,3.0
+700,8185,The Camden Assembly,5.0,2.0
+701,8186,Duri Mart Ltd,5.0,5.0
+702,8187,Enoteca Rosso,5.0,2.0
+703,8188,Mortimer House Kitchen,5.0,2.0
+704,8189,Nest,5.0,3.0
+705,8190,Andalucia Palace,5.0,3.0
+706,8191,Mydetoxdiet,5.0,2.0
+707,8192,The Twins Healthy Habitat,5.0,4.0
+708,8193,7 Tales,5.0,3.0
+709,8194,Motu Indian Kitchen - Battersea,5.0,3.0
+710,8195,Deli 98,5.0,3.0
+711,8196,Wings and Things,5.0,4.0
+712,8197,Kobe Burger,5.0,2.0
+713,8198,Bean & Wheat by Adam Handling,5.0,3.0
+714,8199,Saporita,5.0,3.0
+715,8200,Harley Dogs,5.0,3.0
+716,8201,Coco di Mama,5.0,2.0
+717,8202,Petit Blue Cafe,5.0,3.0
+718,8203,New Bombay Kitchen,5.0,2.0
+719,8204,L'Orchidee Macarons & Cakes,5.0,3.0
+720,8205,Palm Pizzeria,5.0,2.0
+721,8207,Melissa,5.0,2.0
+722,8208,Tops Pizza,5.0,4.0
+723,8209,Great Guns Social,5.0,2.0
+724,8210,Outside The Box Islington,5.0,3.0
+725,8211,Wings and ribs,5.0,3.0
+726,8212,Tossed,5.0,3.0
+727,8213,Sophie's Steakhouse & Bar,5.0,2.0
+728,8214,More Italy,5.0,3.0
+729,8215,The Nile Cafe,5.0,4.0
+730,8216,Burger Bros,5.0,2.0
+731,8217,Shanel's Sandwich Bar,5.0,4.0
+732,8218,Horizon Patisserie and Viennoiserie,5.0,2.0
+733,8219,Kape Barako,5.0,2.0
+734,8220,Cafe Forever,5.0,5.0
+735,8221,Patty & Bun,5.0,2.0
+736,8222,Cafe Montmartre,5.0,7.0
+737,8223,Armoury House,5.0,4.0
+738,8224,Le Palmier,5.0,4.0
+739,8225,Island Poke,5.0,2.0
+740,8226,Nan True Thai,5.0,2.0
+741,8227,Garrick Club,5.0,2.0
+742,8228,Amigos Restaurant Ltd,5.0,3.0
+743,8229,Ana's Croquetas,5.0,2.0
+744,8230,Grande Maison Restaurant,5.0,2.0
+745,8231,The Shed,5.0,3.0
+746,8232,Kubo,5.0,3.0
+747,8235,Bishop of Norwich,5.0,4.0
+748,8236,Woolley Catering Co Ltd,5.0,4.0
+749,8248,Uncle Wrinkle,5.0,5.0
+750,8280,Bridge Cafe,5.0,6.0
+751,8294,Poppins Cafe,5.0,4.0
+752,8319,All In A Pickle,5.0,4.0
+753,8330,Pizza Amore,5.0,21.0
+754,8335,Tops Pizza,5.0,5.0
+755,8341,The Whip,5.0,10.0
+756,8385,Old Ford's Deli,5.0,9.0
+757,8390,19 Brooks Mews,5.0,4.0
+758,8398,Yeast Bakery,5.0,4.0
+759,8400,Globe,5.0,5.0
+760,8408,Cod's Plaice,5.0,4.0
+761,8410,The Little Ship club,5.0,13.0
+762,8434,Mick Darnalds,5.0,6.0
+763,8472,Monte's Delicatessen,5.0,8.0
+764,8489,Snug Art Cafe,5.0,10.0
+765,8497,Les Gourmets des Ternes,5.0,11.0
+766,8498,La Rochetta,5.0,5.0
+767,8504,Harris + Hoole,5.0,6.0
+768,8520,Westfield White City Ariel Way,5.0,4.0
+769,8527,Piazza della Cucina,5.0,20.0
+770,8533,The Ship's Galley,5.0,9.0
+771,8542,Queen of Babylon,5.0,4.0
+772,8557,Deli Boutique,5.0,5.0
+773,8558,The Bird In Hand Pub and Restaurant,5.0,6.0
+774,8567,Brewbird,5.0,6.0
+775,8576,Creperie Nicolas,5.0,6.0
+776,8624,Two Golden Sisters,5.0,5.0
+777,8640,Caledonian Cafe,5.0,6.0
+778,8672,EN2 Flavas,5.0,8.0
+779,8673,La gastronomia,5.0,5.0
+780,8679,Hungry Turtle,5.0,10.0
+781,8680,Britannia Fish Bar,5.0,5.0
+782,8693,Euro Cafe,5.0,5.0
+783,8708,Asian Restaurant,5.0,8.0
+784,8721,Family Cafe,5.0,7.0
+785,8728,Arbour Cafe,5.0,4.0
+786,8749,Re:Fresh Me,5.0,5.0
+787,8776,Ostara,5.0,6.0
+788,8777,Cee Bee,5.0,4.0
+789,8781,We Brought Beer,5.0,4.0
+790,8797,Scotts Steakhouse,5.0,6.0
+791,8813,Smokin' Aces BBQ,5.0,4.0
+792,8846,Star Fish Bar,5.0,6.0
+793,8852,Hirsinger and Strauss,5.0,9.0
+794,8859,Neat Restaurant,5.0,
+795,8860,Funfetti,5.0,
+796,8861,The Tiffin Tin,5.0,
+797,8862,The Purple Taj,5.0,2.0
+798,8863,La Tante Claire,5.0,2.0
+799,8864,Que Tapas,5.0,
+800,8865,The White Swan,5.0,
+801,8866,Hoxton Beach Cafe,5.0,2.0
+802,8867,Dooglebuds Restaurant,5.0,2.0
+803,8868,Coast,5.0,
+804,8869,La Manche,5.0,2.0
+805,8870,Time Kebab House 2,5.0,2.0
+806,8871,Hash Green,5.0,
+807,8872,Zio & Zia,5.0,
+808,8873,Pizza Hotline Kebab And Chicken,5.0,
+809,8874,Market Green,5.0,2.0
+810,8875,Poplar Fried Chicken,5.0,
+811,8876,Lads Who Lunch,5.0,
+812,8877,Express Pizza Co,5.0,
+813,8878,Chicken Cottage,5.0,
+814,8879,Pisa Pizza,5.0,
+815,8880,Rio Cafe Restaurant & Bar,5.0,
+816,8881,Caloroso Pizza,5.0,
+817,8882,Dezato,5.0,
+818,8883,Sea Breeze Restaurant & Juice Bar,5.0,
+819,8884,Spoons Restaurant,5.0,3.0
+820,8885,Nani Cafe,5.0,2.0
+821,8886,Cafe 57,5.0,2.0
+822,8887,The Craft Beer Social Club,5.0,
+823,8888,Thoy Juice,5.0,4.0
+824,8889,Pizzolo,5.0,2.0
+825,8890,Little Rock Cafe,5.0,
+826,8891,Green Orchard,5.0,
+827,8892,Dallas Steak House,5.0,
+828,8893,The Damask Restaurant,5.0,6.0
+829,8894,Baz & Fred Ltd,5.0,
+830,8895,Soup Opera - Covent Garden,5.0,
+831,8896,Anuraag Tandoori Restaurant,5.0,
+832,8897,Soulmatefood Kitchen,5.0,
+833,8898,Julia's Little Oyster,5.0,
+834,8899,Rich Hill Chinese Takeaway,5.0,
+835,8900,Bake and Cake,5.0,
+836,8901,Pizza Express,5.0,2.0
+837,8902,Le Pain Quotidien,5.0,
+838,8903,Forest Kebab,5.0,4.0
+839,8904,Maestro Cafe,5.0,4.0
+840,8905,The Girl Of Sandwich,5.0,
+841,8906,Saigon Streat,5.0,
+842,8907,Chick,5.0,
+843,8908,Herne Hill Fish Bar,5.0,2.0
+844,8909,Rika's Naturals,5.0,
+845,8910,Woody Pizza,5.0,
+846,8911,Grill4You,5.0,
+847,8912,Caglar Kebab,5.0,4.0
+848,8913,The Curry King,5.0,2.0
+849,8914,O La Lah Pizza,5.0,
+850,8915,Vina Kitchen,5.0,
+851,8916,Park Life Cafe,5.0,2.0
+852,8917,Desi Pitha Ghor,5.0,
+853,8918,The Artisan Bistro,5.0,38.0
+854,8919,Westside Cafe and Sandwich Bar,5.0,2.0
+855,8920,Mailinda,5.0,2.0
+856,8921,Mindo's,5.0,
+857,8922,Phoenix Blend,5.0,2.0
+858,8923,Bloomsburys,5.0,
+859,8924,The Living Room Soho,5.0,
+860,8925,Station House,5.0,
+861,8926,The Patio,5.0,3.0
+862,8927,The Brunel,5.0,
+863,8928,Cocochinouk,5.0,
+864,8929,Star Cafe,5.0,
+865,8930,Perla Bar & Restaurant,5.0,2.0
+866,8931,Ho Wah,5.0,
+867,8932,Sburoni,5.0,
+868,8933,Gourmet Goat,5.0,
+869,8934,Wrapchic,5.0,
+870,8935,Mediterranean Breeze,5.0,
+871,8936,The Jasmine Kitchen,5.0,
+872,8937,Benjos ltd,5.0,2.0
+873,8938,John Charlick Foods,5.0,4.0
+874,8939,Original Peri Peri Chicken,5.0,3.0
+875,8940,The Vintage Fish,5.0,
+876,8941,The Things We Love.,5.0,2.0
+877,8942,Taste of Ethiopia,5.0,2.0
+878,8943,Pinuccio,5.0,
+879,8944,Franco bar & restaurant,5.0,2.0
+880,8945,Soawn Soan,5.0,3.0
+881,8946,Gamberini Cafe and Grill,5.0,4.0
+882,8947,Delicous khana,5.0,2.0
+883,8948,80 Stone Cafe,5.0,
+884,8949,Sakeya,5.0,
+885,8950,KFC,5.0,
+886,8951,1851,5.0,
+887,8952,Enoteka,5.0,2.0
+888,8953,Bridge cafe,5.0,
+889,8954,Zaza,5.0,
+890,8955,Martini Bar and Kitchen,5.0,
+891,8956,Curry Garden London,5.0,
+892,8957,The Temple of the Golden Pavilion,5.0,
+893,8958,Bali,5.0,
+894,8959,Leyton Forest Kebab,5.0,5.0
+895,8960,Pizza Rossa,5.0,
+896,8961,Bloomsbury Cafe - UCLU,5.0,
+897,8962,Capri,5.0,
+898,8963,Coppermill,5.0,2.0
+899,8964,Irvings,5.0,
+900,8965,Jesse's,5.0,
+901,8966,Sethi’s Spice Hut,5.0,2.0
+902,8967,Auguste Handmade,5.0,
+903,8968,Lezziz Restaurant,5.0,
+904,8969,Nani Cafe,5.0,
+905,8970,Cafe Nano,5.0,2.0
+906,8971,Secret Sunday Lunch Club,5.0,2.0
+907,8972,Xiclo Limited,5.0,
+908,8973,Diamond Grill,5.0,
+909,8974,Muswell Hill Cafeteria,5.0,3.0
+910,8975,Natureall Organic&Healthy Store,5.0,
+911,8976,Molana,5.0,
+912,8977,Soda Jerks Ltd,5.0,2.0
+913,8978,Passenger Cafe Bar,5.0,2.0
+914,8979,South Pole Saloon,5.0,
+915,8980,The Escape Cafe,5.0,
+916,8981,Cuckoo Hibou,5.0,
+917,8982,Arian Restaurant,5.0,
+918,8983,Organic Stall,5.0,2.0
+919,8984,Rhubarb,5.0,
+920,8985,Maurgies Cafe,5.0,3.0
+921,8986,The Grill Master,5.0,3.0
+922,8987,PastaMista,5.0,2.0
+923,8988,Mayfair Pasta & Sandwich Bar,5.0,
+924,8989,Shoreditch Wood Fried Pizza,5.0,
+925,8990,White Horse,5.0,2.0
+926,8991,Munchizz,5.0,
+927,8992,Itsu,5.0,
+928,8993,New Dragon Chinese Takeaway,5.0,
+929,8994,All Bar One,5.0,
+930,8995,Orange Cafe,5.0,3.0
+931,8996,GAIL's Bakery,5.0,
+932,8997,Nhatrang Kitchen,5.0,2.0
+933,8998,Black Sheep Coffee,5.0,
+934,8999,Abbey,5.0,
+935,9000,Adela's Cafe,5.0,
+936,9001,En Root,5.0,4.0
+937,9002,La Grande Bouchee,5.0,4.0
+938,9003,Addis Ababa Restaurant,5.0,2.0
+939,9004,Zabka Polish Delicatessen,5.0,3.0
+940,9005,Pizza Go Go,5.0,
+941,9006,Sam's,5.0,
+942,9007,Rose Garden Chinese Takeaway,5.0,2.0
+943,9008,Haweli Indian Restaurant,5.0,
+944,9009,Chick Stop,5.0,
+945,9010,Ballyhoo,5.0,
+946,9011,Fortune,5.0,3.0
+947,9012,River Ganges,5.0,
+948,9013,Royal Ribs,5.0,
+949,9014,Wenlock Cafe,5.0,
+950,9015,La Terraza,5.0,5.0
+951,9016,Miran Restaurant,5.0,
+952,9017,Franks,5.0,
+953,9018,Cappy's Pizza,5.0,
+954,9019,Golden House Take Away,5.0,
+955,9020,Pizza House,5.0,2.0
+956,9021,Tent Cafe,5.0,
+957,9022,Popeye Pizza,5.0,
+958,9023,Favorite Fried Chicken,5.0,
+959,9024,Kebab Town,5.0,
+960,9025,Royal Fish Bar,5.0,4.0
+961,9026,Duke Thai,5.0,
+962,9027,Masala Indian Takeaway,5.0,
+963,9028,City Noodles,5.0,
+964,9029,Zorya Restaurant,5.0,
+965,9030,Pashmina,5.0,
+966,9031,Pizza Phiroza,5.0,
+967,9032,La Pinata - Mexican Food,5.0,
+968,9033,Crown Public House,5.0,
+969,9034,Yun Ya,5.0,
+970,9035,Dash,5.0,4.0
+971,9036,Tincan,5.0,
+972,9037,Shandeez,5.0,
+973,9038,Goppa Restaurant & Pizzeria,5.0,
+974,9039,Friuliamo,5.0,
+975,9040,"Olympic Fish, Chips and Kebabs",5.0,2.0
+976,9041,Artcafe,5.0,2.0
+977,9042,That's Amore Of Italy Ltd Camden Town,5.0,
+978,9043,Tandoori Hut,5.0,2.0
+979,9044,Coco di Mama,5.0,
+980,9045,Coco di Mama,5.0,
+981,9046,Dallas Chicken And Ribs,5.0,
+982,9047,Fongs Kitchen,5.0,3.0
+983,9048,Coco di Mama,5.0,
+984,9049,Punjabi Special,5.0,
+985,9050,The Charcoal Grill,5.0,3.0
+986,9051,Uptown Cafe,5.0,
+987,9052,The Whistleblower Pub,5.0,
+988,9053,New Golden Wok,5.0,
+989,9054,Mona's Cafe,5.0,
+990,9055,Tasty's,5.0,
+991,9056,Khobkhun Thai Cuisine,5.0,
+992,9057,Arveja Cafe,5.0,
+993,9058,Dial A Curry,5.0,4.0
+994,9059,Khorasan,5.0,3.0
+995,9060,Uplands cafe,5.0,
+996,9061,Akar Kebabs,5.0,
+997,9062,Aqsa,5.0,4.0
+998,9063,Pizza On Demand,5.0,
+999,9064,Hellenic Restaurant,5.0,2.0
+1000,9065,Amici,5.0,
+1001,9066,Caffe Nero,5.0,
+1002,9067,Subway,5.0,
+1003,9068,Legacy Restaurant & Bar,5.0,
+1004,9069,Tasty Kebabs,5.0,
+1005,9070,Lams House,5.0,3.0
+1006,9071,The Best Kebabs & Burgers,5.0,4.0
+1007,9072,Indian Fantasy,5.0,
+1008,9073,Katies,5.0,
+1009,9074,Brixton Pound Cafe,5.0,2.0
+1010,9075,Oriental Chef,5.0,
+1011,9076,Domino's Pizza,5.0,
+1012,9077,Noura Restaurant Bar and Grill,5.0,
+1013,9078,Sake Dreams,5.0,
+1014,9079,Gentingo Casino,5.0,3.0
+1015,9080,Dixy Fried Chicken,5.0,4.0
+1016,9081,Natalie's Cafe & Restaurant,5.0,3.0
+1017,9082,Soho Radio,5.0,2.0
+1018,9083,Balti Empire,5.0,
+1019,9084,Dragon Takeaway,5.0,
+1020,9085,Il giardino,5.0,2.0
+1021,9086,Hing Loong Takeaway,5.0,
+1022,9087,Pizza Go Go,5.0,
+1023,9088,Kebab Delight,5.0,2.0
+1024,9089,Etsu Cafe,5.0,
+1025,9090,The Railway Tavern,5.0,2.0
+1026,9091,Minas Brasil,5.0,
+1027,9092,Great Eastern Fish Bar,5.0,2.0
+1028,9093,Tonky Gorilla,5.0,
+1029,9094,J Grodzinski & Daughters,5.0,2.0
+1030,9095,Oat Milk,5.0,2.0
+1031,9096,Aromateaco,5.0,2.0
+1032,9097,Amaretto,5.0,2.0
+1033,9098,Westegg,5.0,
+1034,9099,Himalayan Spice,5.0,
+1035,9100,Ocean Fish Bar,5.0,2.0
+1036,9101,Oracle Organic,5.0,2.0
+1037,9102,Tuscan Noodles,5.0,
+1038,9103,Islandpoke,5.0,2.0
+1039,9104,The Grill @ 93,5.0,
+1040,9105,Baban's Naan,5.0,
+1041,9106,Finns of Chelsea,5.0,2.0
+1042,9107,Caviar Classic,5.0,2.0
+1043,9108,The Prince of Wales,5.0,2.0
+1044,9109,St Annas,5.0,
+1045,9110,Pig Dogs and Brisket,5.0,
+1046,9111,Papaz Peri Peri,5.0,
+1047,9112,Coco di Mama,5.0,
+1048,9113,El Patron,5.0,2.0
+1049,9114,D & Q fish and chips eat in or takeaway,5.0,
+1050,9115,European Taste Restaurant,5.0,4.0
+1051,9116,Candy Cafe & Shisha Lounge,5.0,
+1052,9117,Spice King,5.0,
+1053,9118,Cafe Prov,5.0,3.0
+1054,9119,Tamal.co.uk,5.0,6.0
+1055,9120,Mumbai Tadka,5.0,2.0
+1056,9121,Purple Chilli Lounge,5.0,4.0
+1057,9122,Sardinia Corner,5.0,
+1058,9123,Myst Lounge,5.0,
+1059,9124,The Virgin Queen,5.0,
+1060,9125,Compass Cafe,5.0,
+1061,9126,Tungsing House,5.0,
+1062,9127,Babylon Pizza,5.0,
+1063,9128,Chopsticks,5.0,
+1064,9129,Thaisty,5.0,
+1065,9130,Arthur's,5.0,2.0
+1066,9131,Warisan Cafe,5.0,
+1067,9132,Zoe,5.0,
+1068,9133,The Studio Cafe,5.0,
+1069,9134,The Pavilion,5.0,
+1070,9135,Pasta Cosi,5.0,
+1071,9136,The Sindian Grill House,5.0,
+1072,9137,Urban Falafel,5.0,
+1073,9138,Limone Fine Foods,5.0,
+1074,9139,Mah's Kitchen,5.0,
+1075,9140,Cocomaya,5.0,
+1076,9141,Delish Thai Supper Club,5.0,
+1077,9142,Cappone Pizzeria,5.0,4.0
+1078,9143,Enjoy Cafe,5.0,
+1079,9144,Hot Bread Cafe,5.0,2.0
+1080,9145,de Vine Restaurant Coffee Bar,5.0,
+1081,9146,Cafe Le Shiren,5.0,
+1082,9147,Torero Tapas Bar & Restaurant,5.0,
+1083,9148,Mcdonald's Restaurant,5.0,3.0
+1084,9149,We Are Family & The Cafe Chantant,5.0,
+1085,9150,Bloomingscent Cafe,5.0,
+1086,9151,George,5.0,2.0
+1087,9152,Youmoo,5.0,
+1088,9153,Roots,5.0,
+1089,9154,Golden Harvest Indian Restaurant,5.0,
+1090,9155,Michael's,5.0,2.0
+1091,9156,Dirty Harry's Soho,5.0,
+1092,9157,Fresh Ground Coffee House Eltham,5.0,
+1093,9158,Cicero Delicatessen,5.0,
+1094,9159,Londen,5.0,
+1095,9160,Spice Zone,5.0,2.0
+1096,9161,Al-Jabal Bakery,5.0,
+1097,9162,Kebab Place,5.0,
+1098,9163,New Horizon Cafe,5.0,2.0
+1099,9164,The Pitstop,5.0,
+1100,9165,Chicken Addict,5.0,
+1101,9166,The Workers' Cafe,5.0,
+1102,9167,Tryencore,5.0,2.0
+1103,9168,Jed's Food,5.0,
+1104,9169,Company Below,5.0,2.0
+1105,9170,Parkholme Supper Club,5.0,2.0
+1106,9171,Con Gusto,5.0,
+1107,9172,Pickled Pig Grub Club,5.0,2.0
+1108,9173,Burgershack & Bar,5.0,2.0
+1109,9174,Packhorse Pub,5.0,
+1110,9175,Imbibe,5.0,
+1111,9176,Meditaste,5.0,3.0
+1112,9177,Davide's Kitchen,5.0,
+1113,9178,Salle a manger,5.0,2.0
+1114,9179,Keuken,5.0,
+1115,9180,Chalk Farm Grill,5.0,
+1116,9181,Early's Cafe,5.0,2.0
+1117,9182,New Taz,5.0,
+1118,9183,Curry Mania,5.0,
+1119,9184,Cally Cafe,5.0,
+1120,9185,Jerk in da Park,5.0,
+1121,9186,Itsu,5.0,2.0
+1122,9187,Tossed,5.0,
+1123,9188,Guasacaca,5.0,2.0
+1124,9189,Kuriya Keiko,5.0,3.0
+1125,9190,Itsu,5.0,
+1126,9191,Sangria,5.0,3.0
+1127,9192,Cake world,5.0,
+1128,9193,Napoli Pizzeria,5.0,2.0
+1129,9194,Meat and Sea Ltd,5.0,
+1130,9195,4 Mevsim,5.0,
+1131,9196,Nour Express,5.0,
+1132,9197,Ulumma-B Nigerian Igbo Restaurant and Bar,5.0,
+1133,9198,Vanillaz Diner,5.0,
+1134,9199,Hamer Restaurant,5.0,
+1135,9200,Chris’s Fish Bar,5.0,
+1136,9201,Delicious Vape,5.0,
+1137,9202,Rowans Cafe Bar,5.0,4.0
+1138,9203,Namaste,5.0,
+1139,9204,Beltane&Pop,5.0,2.0
+1140,9205,Nawroz,5.0,
+1141,9206,Day Of The Raj N20,5.0,
+1142,9207,The Cherry Tree Cafe,5.0,5.0
+1143,9208,Table For 10,5.0,
+1144,9209,GRABTHAI Bangkok Cafe - Liverpool Street,5.0,
+1145,9210,Mum's,5.0,
+1146,9211,Patty Island,5.0,
+1147,9212,Malibu Bute Street,5.0,
+1148,9213,Rao Deli,5.0,
+1149,9214,The Grill Restaurant Doubletree Chelsea,5.0,
+1150,9215,Fornetti Turnpike Lane,5.0,3.0
+1151,9216,Dinner Jackets,5.0,
+1152,9217,Copper Haandi,5.0,
+1153,9218,Our Cottage,5.0,2.0
+1154,9219,Bundu Khan,5.0,
+1155,9220,Central,5.0,
+1156,9221,Presto Pizza,5.0,2.0
+1157,9222,Dough & So,5.0,
+1158,9223,Bit,5.0,2.0
+1159,9224,Bamboo Baboom,5.0,
+1160,9225,Spark,5.0,2.0
+1161,9226,Black & White Cafe,5.0,2.0
+1162,9227,Lala Cafe,5.0,
+1163,9228,Le Bijou Selma 2,5.0,3.0
+1164,9229,Startisans,5.0,
+1165,9230,Mydonos Restaurant,5.0,
+1166,9231,Nusa Kitchen,5.0,
+1167,9232,Snr Ceviche,5.0,
+1168,9233,Bella Abaayo,5.0,
+1169,9234,Mvmnt Cafe,5.0,
+1170,9235,Pappadums,5.0,
+1171,9236,Q fish restaurant,5.0,2.0
+1172,9237,Durius River Caf,5.0,2.0
+1173,9238,Rodeo cafe grill,5.0,
+1174,9239,The Copper Tap,5.0,
+1175,9240,BeBelge,5.0,6.0
+1176,9241,Peters & Co. Gin Palace,5.0,
+1177,9242,Differenza Restaurant,5.0,
+1178,9243,Brimsdown Grill & Pizza,5.0,
+1179,9244,Indo Chinese Noodles,5.0,
+1180,9245,Paradise Restaurant,5.0,2.0
+1181,9246,La crepe des delices,5.0,
+1182,9247,Beirut Canteen,5.0,
+1183,9248,Bistro Mirey,5.0,
+1184,9249,Happy Pizza,5.0,2.0
+1185,9250,Gail's Kitchen,5.0,
+1186,9251,The Trew Era Cafe,5.0,2.0
+1187,9252,The Corner Pin,5.0,
+1188,9253,Pierre whites steak alegouse,5.0,2.0
+1189,9254,Ustun Lahmacun,5.0,
+1190,9255,Lamar cafe and lounge,5.0,
+1191,9256,Scarlet Kitchen,5.0,
+1192,9257,Olympus Kebabs,5.0,3.0
+1193,9258,Citrus and Cocoa,5.0,6.0
+1194,9259,W&D's Caribbean Delights,5.0,
+1195,9260,Clerkenwell,5.0,
+1196,9261,Taboon,5.0,
+1197,9262,Sugahill Cafe,5.0,3.0
+1198,9263,Louisiana Chilli Shack,5.0,4.0
+1199,9264,TuJacks,5.0,2.0
+1200,9265,Gastro Pub,5.0,
+1201,9266,Stirred Cafe and Bar,5.0,
+1202,9267,Will To Win Cafe,5.0,3.0
+1203,9268,The Furlong Muswell Hill,5.0,2.0
+1204,9269,Chang Thai Restaurant,5.0,2.0
+1205,9270,Cafe Nile,5.0,2.0
+1206,9271,Magnos Brasserie,5.0,
+1207,9272,Neo's Kebab,5.0,
+1208,9273,Joe & The Juice,5.0,
+1209,9274,Joe & The Juice,5.0,
+1210,9275,Rubys of London,5.0,2.0
+1211,9276,Atlas moroccan and Italian restaurant,5.0,
+1212,9277,Arawak Grill,5.0,
+1213,9278,Inigo,5.0,
+1214,9279,Camberwell Tandoori,5.0,
+1215,9280,Tiffin'Cafe,5.0,
+1216,9281,Zukoni's,5.0,
+1217,9282,Sunshine Cafe,5.0,
+1218,9283,Rex Cinema and Bar,5.0,
+1219,9284,Barber-Surgeons' Hall,5.0,5.0
+1220,9285,Wax,5.0,
+1221,9286,Motion,5.0,
+1222,9287,Terra Nera,5.0,2.0
+1223,9288,The Millwall Cafe,5.0,
+1224,9289,G Wadley's Meat Room,5.0,
+1225,9290,Archway Town Cafe,5.0,2.0
+1226,9291,The Mush Room Cafe,5.0,
+1227,9292,Cafe East London,5.0,
+1228,9293,Golden Plaice,5.0,
+1229,9294,Safari Restaurant,5.0,2.0
+1230,9295,L'orchidee Boutique Patisserie,5.0,
+1231,9296,90Novanta,5.0,2.0
+1232,9297,By Appointment Only Bar,5.0,
+1233,9298,Med wraps ltd,5.0,3.0
+1234,9299,Simply Spice,5.0,2.0
+1235,9300,Cafe Selecta,5.0,3.0
+1236,9301,Ef's,5.0,4.0
+1237,9302,Chicken Valley,5.0,
+1238,9303,Best Kebab In Town,5.0,3.0
+1239,9304,Fernandez and Wells,5.0,
+1240,9305,Two Feathers,5.0,
+1241,9306,Neo's Bakery & Patisserie,5.0,2.0
+1242,9307,Kfc,5.0,
+1243,9308,Entricot,5.0,5.0
+1244,9309,Stag,5.0,2.0
+1245,9310,Tiramisu & Sweets Pusher,5.0,
+1246,9311,Skewers,5.0,2.0
+1247,9312,Work Man's Cafe,5.0,
+1248,9313,Lewisham Kebab Centre,5.0,
+1249,9314,Aromatic Delicatessen,5.0,4.0
+1250,9315,Saint Sugar of London,5.0,
+1251,9316,Starbucks Victoria - Palmer Street,5.0,
+1252,9317,Nova Charcoal Grill,5.0,
+1253,9318,Atrium,5.0,2.0
+1254,9319,Chicken & Grill,5.0,
+1255,9320,Shelter,5.0,
+1256,9321,Nusa Kitchen - Plough Place,5.0,
+1257,9322,Liliana Coffee,5.0,2.0
+1258,9323,El Asadazo,5.0,
+1259,9324,Yum yum,5.0,
+1260,9325,Arte Restaurante Benfica,5.0,
+1261,9326,Wing Lee Brockley,5.0,
+1262,9327,Black Bear Burger,5.0,
+1263,9328,Fig & Pistachio,5.0,3.0
+1264,9329,Parkside Cafe,5.0,
+1265,9330,Pan Of Asia,5.0,
+1266,9331,Sushi Hana,5.0,
+1267,9332,Bombay Bites,5.0,5.0
+1268,9333,Bivio,5.0,
+1269,9334,Curry Royal Tandoori,5.0,3.0
+1270,9335,Flavour-E-Azam,5.0,2.0
+1271,9336,Sabor Latino,5.0,4.0
+1272,9337,Our Kitchen,5.0,
+1273,9338,I Falafel,5.0,
+1274,9339,Lebaneats,5.0,
+1275,9340,El Amor Amor,5.0,3.0
+1276,9341,Honey Moon,5.0,
+1277,9342,Pizza Hut,5.0,
+1278,9343,Dussin,5.0,
+1279,9344,BurgerFi Wembley,5.0,2.0
+1280,9345,Steak Republic,5.0,
+1281,9346,Loven Bakery,5.0,
+1282,9347,Grazie Assai,5.0,
+1283,9348,Veggie Pret,5.0,
+1284,9349,Max Snack Bar,5.0,3.0
+1285,9350,Blue Marlin Fish Bar,5.0,
+1286,9351,Mama Jumbe's,5.0,
+1287,9352,Anfa,5.0,
+1288,9353,Veli's Cafe,5.0,
+1289,9354,Curry Express,5.0,2.0
+1290,9355,Monsoon,5.0,2.0
+1291,9356,Spoon - Tree,5.0,
+1292,9357,The Falafel Bar,5.0,2.0
+1293,9358,Balii Maamala's Restaurant,5.0,
+1294,9359,GreenZen Poke and Matcha Bar,5.0,
+1295,9360,Arches Cafe,5.0,
+1296,9361,Totos Cafe,5.0,
+1297,9362,Ten Thousand Hands,5.0,
+1298,9363,Riverpoint Restaurant,5.0,
+1299,9364,City Coffee Lounge,5.0,
+1300,9365,Partybox75,5.0,2.0
+1301,9366,The Notting Gill Chippy,5.0,
+1302,9367,Silver River,5.0,
+1303,9368,Elachi,5.0,2.0
+1304,9369,Dragon City,5.0,
+1305,9370,Meeraz,5.0,
+1306,9371,The Griffin,5.0,
+1307,9372,Cafe Leo,5.0,2.0
+1308,9373,Helio's Cantina,5.0,
+1309,9374,Grill on the Hill,5.0,4.0
+1310,9375,The Cave Bar,5.0,
+1311,9376,seawise,5.0,3.0
+1312,9377,La Pasta,5.0,
+1313,9378,Ocean Basket,5.0,3.0
+1314,9379,Stir it up,5.0,
+1315,9380,Mangal 1.1,5.0,4.0
+1316,9381,Steves Breakfast Box,5.0,
+1317,9382,Glo!,5.0,
+1318,9383,Imly,5.0,2.0
+1319,9384,Tiger Lilly,5.0,
+1320,9385,The Hub,5.0,2.0
+1321,9386,Wong's Happiness Diner,5.0,
+1322,9387,Pret a Manger,5.0,
+1323,9388,Anyday SuperSalad,5.0,
+1324,9389,Sacred Cafe,5.0,2.0
+1325,9390,Sun Chen Snack Bar,5.0,
+1326,9391,Circus Bros,5.0,3.0
+1327,9392,Warung Tempeh,5.0,2.0
+1328,9393,The Rose Inn,5.0,
+1329,9394,Varq London,5.0,
+1330,9395,Wonderful Chinese & Thai,5.0,
+1331,9396,Urban Bytez Limited,5.0,
+1332,9397,Wagamama,5.0,
+1333,9398,Fine Curry,5.0,
+1334,9399,Corner Plus,5.0,
+1335,9400,Shabab,5.0,
+1336,9401,Gully,5.0,2.0
+1337,9402,Eat,5.0,2.0
+1338,9403,Eat,5.0,
+1339,9404,Eat,5.0,2.0
+1340,9405,Eat,5.0,2.0
+1341,9406,Yiamas Taverna of London,5.0,5.0
+1342,9407,The Breadroom,5.0,
+1343,9408,Clare & Phoebe of the Kitchen Creative,5.0,2.0
+1344,9409,Ali Baba Juice,5.0,2.0
+1345,9410,The Wine Cellar Kentish Town,5.0,
+1346,9411,Kudu Restaurant,5.0,
+1347,9412,Seacole Social,5.0,
+1348,9413,Sami's Deli,5.0,4.0
+1349,9414,Busby's,5.0,4.0
+1350,9415,Mountainview in Chislehurst,5.0,
+1351,9416,Choja Sushi,5.0,
+1352,9417,Fabulous 698B,5.0,3.0
+1353,9418,Hennessy's,5.0,
+1354,9419,The Provenance,5.0,
+1355,9420,Shenaz Mauritian Fusion,5.0,2.0
+1356,9421,Wrap It Up! Victoria,5.0,
+1357,9422,Mam Vic's Plantain Parlour,5.0,
+1358,9423,Maui Poke,5.0,
+1359,9424,Salsa!,5.0,
+1360,9425,Fusion Kitchen,5.0,
+1361,9426,Tazza Lounge,5.0,
+1362,9427,Buchanans Cheesemonger,5.0,2.0
+1363,9428,Enjoy Cafe,5.0,
+1364,9429,The Jerk & Roti Shack,5.0,
+1365,9430,Hertford Best Kebab And Fish,5.0,
+1366,9431,Nest Caf,5.0,
+1367,9432,Sizzling Sausage,5.0,
+1368,9433,San Giorgio,5.0,
+1369,9434,Al's Place,5.0,2.0
+1370,9435,Electric Dog,5.0,
+1371,9436,TASTE Restaurant,5.0,
+1372,9437,Tortuga Caribbean Restaurant & Cocktail Bar,5.0,2.0
+1373,9438,Madina Grill,5.0,2.0
+1374,9439,Superchef cafe,5.0,2.0
+1375,9440,Hamlet Cafe,5.0,3.0
+1376,9442,Sydney Arms,5.0,
+1377,9443,Sovereign Wheelers,5.0,2.0
+1378,9444,Shanaz,5.0,2.0
+1379,9445,KEDAI KOPI London,5.0,3.0
+1380,9446,Kusina Nova,5.0,
+1381,9447,New Frosco,5.0,
+1382,9448,Music Cafe,5.0,3.0
+1383,9449,Marney's,5.0,
+1384,9450,Arizona,5.0,
+1385,9451,Leven Is Strijd,5.0,
+1386,9452,Laksmi Tandoori,5.0,
+1387,9453,La Stampa,5.0,
+1388,9454,Khomali,5.0,
+1389,9455,Kafa,5.0,
+1390,9456,Orsino,5.0,2.0
+1391,9457,Myatts Cafe,5.0,
+1392,9458,Flautist & Firkin,5.0,
+1393,9459,Erics Cafe,5.0,
+1394,9460,De Verandah,5.0,
+1395,9461,Colairo J,5.0,
+1396,9462,Uludag Kebab,5.0,
+1397,9463,Cafe Bar Sicilia,5.0,2.0
+1398,9464,Bucci,5.0,4.0
+1399,9465,Aunt Sallys,5.0,
+1400,9466,Bice,5.0,
+1401,9467,Rio's Piri Piri,5.0,
+1402,9468,Nosh Eel And Pie House,5.0,
+1403,9469,Pure,5.0,
+1404,9470,Soup Opera - King's Cross,5.0,
+1405,9471,Taka,5.0,
+1406,9472,Manor,5.0,
+1407,9473,Kohinoor,5.0,
+1408,9474,Cafe Savvies,5.0,
+1409,9475,May Va Chinese Restaurant,5.0,
+1410,9476,Hai Phong Cafe,5.0,
+1411,9477,Natty Tatty's,5.0,3.0
+1412,9478,123 Pizza,5.0,
+1413,9479,Wimpy,5.0,2.0
+1414,9480,Clay Grill,5.0,
+1415,9481,The Olive Tree,5.0,
+1416,9482,Seabar,5.0,
+1417,9483,Wick Fisheries,5.0,
+1418,9484,Tatlici Adanalilar,5.0,
+1419,9485,Kwan‘s Cuisine,5.0,
+1420,9486,Townhouse,5.0,
+1421,9487,Story Pizza,5.0,2.0
+1422,9488,Kookies,5.0,3.0
+1423,9489,Polka Cafe,5.0,2.0
+1424,9490,Calcutta Tandoori restaurant,5.0,
+1425,9491,Chave D'ouro,5.0,
+1426,9492,Cucina Rustica London,5.0,
+1427,9493,Cafe Express Willesden,5.0,2.0
+1428,9494,La Grande Marque,5.0,
+1429,9495,Marrakech Express,5.0,3.0
+1430,9496,Yakamoz Restaurant,5.0,
+1431,9497,The Classic Restaurant,5.0,3.0
+1432,9498,Tuck Inn,5.0,
+1433,9499,Spice Box,5.0,2.0
+1434,9500,Chef cafe bistro & restaurant,5.0,
+1435,9501,The Dining Room,5.0,
+1436,9502,Caffe Nero,5.0,
+1437,9503,Agrobeso,5.0,3.0
+1438,9504,Make a Reservation at the Gallery,5.0,3.0
+1439,9505,Santiago and Grace,5.0,
+1440,9506,Oba Restaurant,5.0,5.0
+1441,9507,I-Cuisine,5.0,2.0
+1442,9508,Smoke'n'Roll,5.0,3.0
+1443,9509,Achar,5.0,2.0
+1444,9510,The Priory,5.0,
+1445,9511,The Athenian,5.0,
+1446,9512,Tibb's Frankie,5.0,2.0
+1447,9513,the Old Cafe,5.0,
+1448,9514,Blend,5.0,
+1449,9515,Dub Plates Cafe,5.0,
+1450,9516,Shaolin Restaurant,5.0,2.0
+1451,9517,Suntrap,5.0,2.0
+1452,9518,Ruchi Grill,5.0,2.0
+1453,9519,Applecart Cafe,5.0,
+1454,9520,Lo's Noodle Facotry,5.0,2.0
+1455,9521,Promenade Bar & Grill,5.0,
+1456,9522,Wearecoup,5.0,
+1457,9523,Equation,5.0,2.0
+1458,9524,Tsarevets,5.0,
+1459,9525,Guido's - Chancery Lane,5.0,
+1460,9526,Lovelygloworm Cafe,5.0,
+1461,9527,Patak Stroud Green Islington,5.0,2.0
+1462,9529,BodyKitchen,5.0,
+1463,9530,Salsas Latin Street Food,5.0,
+1464,9531,Tuckshop,5.0,4.0
+1465,9532,Kimmies Jerkjoint,5.0,
+1466,9533,High Water,5.0,3.0
+1467,9534,Heritage Restaurant,5.0,2.0
+1468,9535,Cafe on the Marshes,5.0,
+1469,9536,The Pizza Room,5.0,
+1470,9537,Berluskoni's,5.0,
+1471,9538,The Natural Philosopher,5.0,
+1472,9539,Tony's Restaurant,5.0,
+1473,9540,Yasser Charcoal Grill,5.0,
+1474,9541,Tortilla's Home,5.0,4.0
+1475,9542,Matok,5.0,
+1476,9543,City Cafe,5.0,2.0
+1477,9544,The Cockney Jew,5.0,2.0
+1478,9545,Empress of China,5.0,
+1479,9546,Peony,5.0,3.0
+1480,9547,Eastside BAr and Restaurant,5.0,3.0
+1481,9548,Souper Wraps,5.0,5.0
+1482,9549,Benugo,5.0,
+1483,9550,Pizza bar one,5.0,
+1484,9551,WokTube,5.0,2.0
+1485,9552,Saga,5.0,
+1486,9553,Noaman's Sandwich Bar,5.0,2.0
+1487,9554,The Pavilion Sports & Leisure Club,5.0,
+1488,9571,Sports Bar,5.0,4.0
+1489,9576,Savoy Cafe,5.0,5.0
+1490,9592,Alexandra Tandoori,5.0,6.0
+1491,9593,Hello Beirut,5.0,8.0
+1492,9601,Cafe Olive,5.0,10.0
+1493,9642,Hong Kong Garden,5.0,5.0
+1494,9648,Angela's Cafe,5.0,7.0
+1495,9656,Eat,5.0,5.0
+1496,9673,Delicias UK,5.0,4.0
+1497,9674,Rice And Peas Caribbean Takeaway,5.0,8.0
+1498,9680,Shisha Call,5.0,5.0
+1499,9682,DJ's Coffee Shop,5.0,10.0
+1500,9689,Aji Teppanyaki,5.0,4.0
+1501,9701,Too Many Cooks,5.0,4.0
+1502,9709,Cafe Gospoda,5.0,4.0
+1503,9733,Perfect Fried Chicken,5.0,7.0
+1504,9737,La Crema,5.0,4.0
+1505,9745,Cafe Marina,5.0,5.0
+1506,9773,Book & Kitchen,5.0,6.0
+1507,9776,Huseyin Ozer Dr. Hon Sci,5.0,6.0
+1508,9785,Gizli Restaurant,5.0,51.0
+1509,9786,Workman's Cafe,5.0,4.0
+1510,9801,El Vaquero,5.0,6.0
+1511,9815,Kebana Kebabish,5.0,4.0
+1512,9820,FS2,5.0,4.0
+1513,9827,Santana Grill,5.0,8.0
+1514,9835,Farm:Shop & Cafe,5.0,4.0
+1515,9841,Pizza il Mercato,5.0,8.0
+1516,9860,Dhaka Tandoori Takeaway,5.0,4.0
+1517,9861,Mother's Milk,5.0,4.0
+1518,9882,Dhaba Lane,5.0,4.0
+1519,9892,Madina Pizza,5.0,4.0
+1520,9910,Ciocoyo,5.0,11.0
+1521,9954,Maria's Fish & Kebabs,5.0,5.0
+1522,10019,Quinto/Quarto,5.0,9.0
+1523,10021,City Kebab House,5.0,4.0
+1524,10022,Cafe Cascais,5.0,7.0
+1525,10025,Traditional Pie & Mash,5.0,6.0
+1526,10038,Highgate Cafe & Sandwich Bar,5.0,4.0
+1527,10044,Kitchen8,5.0,8.0
+1528,10056,Candb,5.0,4.0
+1529,10060,Sukarah Lounge,5.0,4.0
+1530,10068,Speck,5.0,4.0
+1531,10076,Retreat Cafe,5.0,6.0
+1532,10086,Hoxtons,5.0,4.0
+1533,10155,Paradiso,5.0,4.0
+1534,10157,Ugarit Restaurant,5.0,4.0
+1535,10169,Darjeeling,5.0,4.0
+1536,10186,Aurelia,5.0,6.0
+1537,10222,Naples Delicacies,5.0,4.0
+1538,10236,Pepe's Piri Piri,5.0,4.0
+1539,10237,Bloondell Sports Bar,5.0,4.0
+1540,10248,Venosi,5.0,4.0
+1541,10258,Le Chiffre,5.0,4.0
+1542,10369,Croquette & co,5.0,8.0
+1543,10407,Greggs,5.0,4.0
+1544,10427,Le Petit Village Ltd,5.0,6.0
+1545,10467,Nasreddin Hoca Sofrasi,5.0,6.0
+1546,10516,Cafe La Cigale,5.0,4.0
+1547,10546,Karpasiana Restaurant,5.0,4.0
+1548,10576,Stereo92,5.0,4.0
+1549,10592,Best Quality Kebab,5.0,4.0
+1550,10827,Hungry Horace,5.0,5.0
+1551,10832,Dhan,5.0,6.0
+1552,10859,The German Hot Dog Stall,5.0,8.0
+1553,10983,De Mezka,5.0,32.0
+1554,10998,Spandeli,5.0,5.0
+1555,11421,L'Oasi Dei Sapori,5.0,7.0
+1556,11515,Bistro,5.0,7.0
+1557,11557,Esfihas Excellent,5.0,5.0
+1558,11959,Bloqs Cafe,5.0,3.0
+1559,12296,Leaf and Bean,5.0,4.0
+1560,12809,Caspian Lounge,5.0,7.0
+1561,13012,Sapori Pugliesi,5.0,6.0
+1562,13146,Il Bianco city island,5.0,5.0
+1563,13235,Everyday Barnes,5.0,5.0
+1564,13527,"La Bottega, Pont Street",5.0,4.0
+1565,13753,Don Luigi,5.0,4.0
+1566,13860,Piada Bar UK Limited,5.0,5.0
+1567,14026,The Roast of Sherwood,5.0,
+1568,14202,StarBurger,5.0,6.0
+1569,14249,Magus & the Fool,5.0,7.0
+1570,14312,Hummus Lina,5.0,11.0
+1571,14644,SushiQueen,5.0,5.0
+1572,15365,Deja Vu Bakery,5.0,2.0
+1573,15502,Agora Greek Bakery,5.0,2.0
+1574,15504,Palmers Greenery: A Community Cafe for Broomfield Park,5.0,2.0
+1575,15550,Wharf cafe,5.0,4.0
+1576,15627,Bonjour Brioche,5.0,62.0
+1577,15639,Urban Gourmet Cafe,5.0,5.0
+1578,15867,Mangal Bhavan,5.0,
+1579,15893,Prince Albert,5.0,2.0
+1580,15934,Hacon Kitchen + Bar,5.0,3.0
+1581,15943,Borneo Cafe and Bakery,5.0,
+1582,15967,Carine’s Eatabout Kitchen,5.0,
+1583,15985,Table 10 Steakhouse and Sea Food,5.0,
+1584,16024,Kabylie Cafe,5.0,
+1585,16089,Spice Villa,5.0,3.0
+1586,16191,Ming's Garden,5.0,
+1587,16256,Amigos Mediterranean Restaurant,5.0,2.0
+1588,16275,Best Fried Chicken,5.0,
+1589,16427,East Putney Tavern,5.0,
+1590,16428,Butchies Shoreditch,5.0,
+1591,16430,Clasico Argentino,5.0,2.0
